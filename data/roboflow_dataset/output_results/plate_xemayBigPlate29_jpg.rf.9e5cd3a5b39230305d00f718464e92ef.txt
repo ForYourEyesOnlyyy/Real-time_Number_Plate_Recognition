@@ -1,0 +1,2 @@
+Text: 65'ET, Probability: 0.5016725891766367
+Text: 8L_.24, Probability: 0.2700764363984255

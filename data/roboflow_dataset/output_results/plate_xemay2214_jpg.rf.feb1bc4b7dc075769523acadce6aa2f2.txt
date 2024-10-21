@@ -1,0 +1,2 @@
+Text: B4, Probability: 0.18859206753650232
+Text: 00676V, Probability: 0.034711793693970414

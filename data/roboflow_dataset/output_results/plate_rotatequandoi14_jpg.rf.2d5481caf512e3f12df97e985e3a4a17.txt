@@ -1,0 +1,2 @@
+Text: bP, Probability: 0.07125623496310662
+Text: 47V, Probability: 0.09158812190808882

@@ -1,0 +1,2 @@
+Text: 59 8, Probability: 0.397786945104599
+Text: 664j9, Probability: 0.3958047938313473

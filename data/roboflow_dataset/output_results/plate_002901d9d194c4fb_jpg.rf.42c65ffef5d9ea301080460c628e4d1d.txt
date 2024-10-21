@@ -1,0 +1,2 @@
+Text: AbF, Probability: 0.7656585829895337
+Text: 606, Probability: 0.9826854078615475

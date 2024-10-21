@@ -1,0 +1,2 @@
+Text: 06, Probability: 0.9605735241226753
+Text: (852.24, Probability: 0.33265545358140247

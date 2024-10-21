@@ -1,0 +1,2 @@
+Text: 1512, Probability: 0.09560108184814453
+Text: 0762, Probability: 0.46269670128822327

@@ -1,0 +1,2 @@
+Text: Ju F, Probability: 0.5070644021034241
+Text: 4765, Probability: 0.9327300190925598

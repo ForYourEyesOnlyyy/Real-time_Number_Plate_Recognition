@@ -1,0 +1,2 @@
+Text: 692.85, Probability: 0.5529755324268252
+Text: JEl, Probability: 0.016009528189897537

@@ -1,0 +1,2 @@
+Text: 159 671, Probability: 0.08977792655222157
+Text: 68612, Probability: 0.8004087485240575

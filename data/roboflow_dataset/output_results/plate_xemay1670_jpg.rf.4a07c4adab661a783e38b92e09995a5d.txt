@@ -1,0 +1,2 @@
+Text: 54 T, Probability: 0.9200257658958435
+Text: 4995, Probability: 0.9401369094848633

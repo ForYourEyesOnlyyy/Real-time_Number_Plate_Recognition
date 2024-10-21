@@ -1,0 +1,2 @@
+Text: 59 V21, Probability: 0.18923830079464815
+Text: 035.22, Probability: 0.44270990126994086

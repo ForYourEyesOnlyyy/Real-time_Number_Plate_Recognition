@@ -1,0 +1,2 @@
+Text: F14, Probability: 0.0734971594551851
+Text: 55433, Probability: 0.7938911735807344

@@ -1,0 +1,2 @@
+Text: 59 F1, Probability: 0.3841769886235938
+Text: 03U55, Probability: 0.4761147060341421

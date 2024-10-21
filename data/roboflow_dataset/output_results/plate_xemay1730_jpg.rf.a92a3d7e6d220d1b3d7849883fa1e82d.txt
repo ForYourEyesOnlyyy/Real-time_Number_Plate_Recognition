@@ -1,0 +1,2 @@
+Text: 59 €, Probability: 0.20716886222362518
+Text: 56086, Probability: 0.5377003828718006

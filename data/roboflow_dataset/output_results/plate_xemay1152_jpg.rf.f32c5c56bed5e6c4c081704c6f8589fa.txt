@@ -1,0 +1,2 @@
+Text: 61 B1, Probability: 0.1683410068515407
+Text: 618.78, Probability: 0.3824858237063631

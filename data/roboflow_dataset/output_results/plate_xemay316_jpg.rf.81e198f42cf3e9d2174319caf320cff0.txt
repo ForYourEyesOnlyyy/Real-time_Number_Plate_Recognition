@@ -1,0 +1,2 @@
+Text: 72 FL, Probability: 0.26790351702525056
+Text: 420740, Probability: 0.17366928746465513

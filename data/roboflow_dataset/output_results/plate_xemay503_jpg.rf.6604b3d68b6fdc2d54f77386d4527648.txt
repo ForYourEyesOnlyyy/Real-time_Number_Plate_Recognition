@@ -1,0 +1,2 @@
+Text: 59 V2, Probability: 0.5138179517732555
+Text: Dubb4, Probability: 0.11509374003047032

@@ -1,0 +1,2 @@
+Text: 11C1, Probability: 0.29442283511161804
+Text: 298.73, Probability: 0.25244921944017173

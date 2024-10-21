@@ -1,0 +1,2 @@
+Text: 61€, Probability: 0.4475733593403363
+Text: 064u3, Probability: 0.06617192305358893

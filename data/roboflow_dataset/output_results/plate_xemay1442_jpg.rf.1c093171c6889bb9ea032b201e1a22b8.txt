@@ -1,0 +1,2 @@
+Text: 55 P, Probability: 0.45250082152950544
+Text: 00Ug, Probability: 0.1430102437734604

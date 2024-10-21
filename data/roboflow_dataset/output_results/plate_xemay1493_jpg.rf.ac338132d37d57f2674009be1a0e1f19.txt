@@ -1,0 +1,2 @@
+Text: 59,F7, Probability: 0.20167905043309348
+Text: [027871, Probability: 0.18547883116055758

@@ -1,0 +1,2 @@
+Text: 70;54, Probability: 0.2548987176253484
+Text: 0367], Probability: 0.4286578122621176

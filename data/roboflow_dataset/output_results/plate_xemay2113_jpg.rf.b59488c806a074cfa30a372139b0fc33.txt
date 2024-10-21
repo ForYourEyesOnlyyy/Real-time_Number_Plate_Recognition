@@ -1,0 +1,2 @@
+Text: 70-L1, Probability: 0.5594641968229015
+Text: 87096, Probability: 0.370375197039189

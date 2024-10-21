@@ -1,0 +1,2 @@
+Text: 59 U1, Probability: 0.27226622208148654
+Text: 703.92, Probability: 0.7450685372373326

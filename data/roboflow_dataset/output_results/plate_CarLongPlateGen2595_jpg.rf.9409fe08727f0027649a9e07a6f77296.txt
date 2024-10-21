@@ -1,0 +1,2 @@
+Text: E1F:, Probability: 0.6187447309494019
+Text: "49142, Probability: 0.428531634715241

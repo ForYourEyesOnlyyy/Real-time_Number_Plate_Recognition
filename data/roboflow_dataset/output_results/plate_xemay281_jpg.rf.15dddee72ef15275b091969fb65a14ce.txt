@@ -1,0 +1,2 @@
+Text: 52 09, Probability: 0.23022297430530161
+Text: 2970, Probability: 0.3693945109844208

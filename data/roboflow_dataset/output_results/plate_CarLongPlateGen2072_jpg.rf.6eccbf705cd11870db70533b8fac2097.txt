@@ -1,0 +1,2 @@
+Text: 618, Probability: 0.049365308258978134
+Text: 69172, Probability: 0.9422694402129841

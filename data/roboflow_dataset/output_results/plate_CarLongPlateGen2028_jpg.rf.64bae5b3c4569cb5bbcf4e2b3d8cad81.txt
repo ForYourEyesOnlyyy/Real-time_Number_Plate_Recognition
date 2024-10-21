@@ -1,0 +1,2 @@
+Text: EF:, Probability: 0.10896602022308803
+Text: '89357, Probability: 0.8935592652806651

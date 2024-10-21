@@ -1,0 +1,2 @@
+Text: L8I, Probability: 0.2966157354686721
+Text: 616251 E, Probability: 0.13409717194945087

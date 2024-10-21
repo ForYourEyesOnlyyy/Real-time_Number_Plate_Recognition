@@ -1,0 +1,2 @@
+Text: 59 P1, Probability: 0.23460186759006174
+Text: 6837 38, Probability: 0.09549334171819929

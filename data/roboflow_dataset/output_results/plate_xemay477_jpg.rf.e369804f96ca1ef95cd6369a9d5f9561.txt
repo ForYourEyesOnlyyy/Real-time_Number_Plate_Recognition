@@ -1,0 +1,2 @@
+Text: 50 Hb, Probability: 0.38574944412131096
+Text: 2202, Probability: 0.5445997714996338

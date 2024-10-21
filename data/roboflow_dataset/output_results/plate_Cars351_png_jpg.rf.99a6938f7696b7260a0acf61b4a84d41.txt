@@ -1,0 +1,2 @@
+Text: IERIS, Probability: 0.0731416309208472
+Text: 887 RU6, Probability: 0.20157054624498602

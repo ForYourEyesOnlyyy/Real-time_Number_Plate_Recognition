@@ -1,0 +1,2 @@
+Text: D7M, Probability: 0.036520286820565524
+Text: 190.25, Probability: 0.6946978775265197

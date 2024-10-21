@@ -1,0 +1,2 @@
+Text: 59*FL, Probability: 0.25207409464623626
+Text: 00gb2, Probability: 0.116968727296614

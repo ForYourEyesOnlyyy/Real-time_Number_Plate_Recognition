@@ -1,0 +1,2 @@
+Text: 651,89, Probability: 0.1357930596454601
+Text: 0943, Probability: 0.10907341539859772

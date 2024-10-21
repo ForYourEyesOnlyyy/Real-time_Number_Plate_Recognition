@@ -1,0 +1,2 @@
+Text: 1006 20, Probability: 0.3224070753252776
+Text: '610, Probability: 0.19031374156475067

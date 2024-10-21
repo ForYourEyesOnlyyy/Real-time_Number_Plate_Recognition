@@ -1,0 +1,2 @@
+Text: 59 F1|, Probability: 0.21070021702627847
+Text: JbsU1, Probability: 0.02697960351912751

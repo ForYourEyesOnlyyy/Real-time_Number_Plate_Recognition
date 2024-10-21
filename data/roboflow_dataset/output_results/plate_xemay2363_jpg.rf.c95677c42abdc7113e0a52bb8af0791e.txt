@@ -1,0 +1,2 @@
+Text: 769U, Probability: 0.3966825008392334
+Text: 0670, Probability: 0.7133421301841736

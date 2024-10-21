@@ -1,0 +1,2 @@
+Text: 57 13, Probability: 0.22972376632350094
+Text: 4827, Probability: 0.941789984703064

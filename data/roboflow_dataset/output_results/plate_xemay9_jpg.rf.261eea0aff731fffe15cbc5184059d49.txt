@@ -1,0 +1,2 @@
+Text: 59 V, Probability: 0.9168374538421631
+Text: 07473, Probability: 0.7316395725669527

@@ -1,0 +1,2 @@
+Text: Do, Probability: 0.013486274540971888
+Text: F20050, Probability: 0.06557805421851676

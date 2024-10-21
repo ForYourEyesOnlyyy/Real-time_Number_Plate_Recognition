@@ -1,0 +1,2 @@
+Text: AHD, Probability: 0.20745429558021072
+Text: 0X65, Probability: 0.5038601756095886

@@ -1,0 +1,2 @@
+Text: 59 F1, Probability: 0.844463231322059
+Text: 381,51, Probability: 0.6092914969517397

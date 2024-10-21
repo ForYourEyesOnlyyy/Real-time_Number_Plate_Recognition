@@ -1,0 +1,2 @@
+Text: 61F, Probability: 0.0761793829717999
+Text: J1L8, Probability: 0.14741624891757965

@@ -1,0 +1,2 @@
+Text: 69 C1, Probability: 0.24220209758833047
+Text: U1200, Probability: 0.6018446884053247

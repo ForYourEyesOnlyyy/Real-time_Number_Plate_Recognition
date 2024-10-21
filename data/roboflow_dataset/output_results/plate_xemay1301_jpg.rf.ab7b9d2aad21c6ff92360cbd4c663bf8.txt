@@ -1,0 +1,2 @@
+Text: 54;85, Probability: 0.27410205830079515
+Text: (896U, Probability: 0.3800931530115706

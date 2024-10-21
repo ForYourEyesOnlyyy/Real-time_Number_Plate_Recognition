@@ -1,0 +1,2 @@
+Text: 79 [4, Probability: 0.4415137737858854
+Text: 0995, Probability: 0.9875060319900513

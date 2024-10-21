@@ -1,0 +1,2 @@
+Text: Vn, Probability: 0.011135349398592159
+Text: 01257, Probability: 0.5186636273191153

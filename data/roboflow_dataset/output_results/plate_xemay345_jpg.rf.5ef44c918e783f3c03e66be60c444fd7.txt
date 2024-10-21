@@ -1,0 +1,2 @@
+Text: 66*22, Probability: 0.21220981501562286
+Text: Cl, Probability: 0.12258787735669759

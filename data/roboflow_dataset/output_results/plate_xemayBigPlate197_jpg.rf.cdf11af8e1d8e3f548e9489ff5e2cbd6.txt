@@ -1,0 +1,2 @@
+Text: 65*02, Probability: 0.38464096425044647
+Text: L474, Probability: 0.3028552532196045

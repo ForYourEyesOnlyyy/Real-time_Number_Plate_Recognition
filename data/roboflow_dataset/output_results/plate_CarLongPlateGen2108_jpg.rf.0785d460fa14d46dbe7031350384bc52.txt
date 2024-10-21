@@ -1,0 +1,2 @@
+Text: F1F:, Probability: 0.1780254989862442
+Text: Sg881, Probability: 0.3338149418977772

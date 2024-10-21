@@ -1,0 +1,2 @@
+Text: 94E7, Probability: 0.5506565823586207
+Text: 19317, Probability: 0.7559761453462023

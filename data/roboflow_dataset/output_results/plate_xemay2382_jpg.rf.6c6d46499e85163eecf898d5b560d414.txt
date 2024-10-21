@@ -1,0 +1,2 @@
+Text: 620, Probability: 0.08472672206490471
+Text: D0iz0, Probability: 0.05469978722639299

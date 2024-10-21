@@ -1,0 +1,2 @@
+Text: 94,B1, Probability: 0.0917487900642793
+Text: 7195.BU, Probability: 0.10159819210857023

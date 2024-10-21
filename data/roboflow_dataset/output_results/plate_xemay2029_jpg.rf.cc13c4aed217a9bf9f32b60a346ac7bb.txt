@@ -1,0 +1,2 @@
+Text: M9u, Probability: 0.19582604738020273
+Text: 695.75, Probability: 0.3775122113985892

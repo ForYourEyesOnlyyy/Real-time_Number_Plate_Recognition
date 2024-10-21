@@ -1,0 +1,2 @@
+Text: 59 C, Probability: 0.32913288474082947
+Text: 104U54, Probability: 0.6937964429491014

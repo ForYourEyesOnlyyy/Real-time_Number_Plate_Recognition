@@ -1,0 +1,2 @@
+Text: 19 L, Probability: 0.15280930697917938
+Text: 0124, Probability: 0.46029937267303467

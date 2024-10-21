@@ -1,0 +1,2 @@
+Text: (95E1, Probability: 0.5182375999486915
+Text: 171.63, Probability: 0.11732849594217294

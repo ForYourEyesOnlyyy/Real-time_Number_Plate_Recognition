@@ -1,0 +1,2 @@
+Text: 65 Bj, Probability: 0.3047078275918946
+Text: 172.09, Probability: 0.5759977889001885

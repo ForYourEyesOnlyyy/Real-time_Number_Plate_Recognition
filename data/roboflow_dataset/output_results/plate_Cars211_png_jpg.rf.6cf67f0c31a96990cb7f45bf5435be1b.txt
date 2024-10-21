@@ -1,0 +1,4 @@
+Text: F, Probability: 0.8179760005749728
+Text: 65022 , Probability: 0.5904996723763846
+Text: D UBA/, Probability: 0.4279494952005362
+Text: LI3, Probability: 0.2553963198409731

@@ -1,0 +1,2 @@
+Text: 69 K, Probability: 0.1991647481918335
+Text: 1865,59, Probability: 0.3374510876095428

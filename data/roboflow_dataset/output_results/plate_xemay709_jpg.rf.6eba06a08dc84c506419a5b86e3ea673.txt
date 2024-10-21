@@ -1,0 +1,2 @@
+Text: 0069, Probability: 0.7685713171958923
+Text: GLp0, Probability: 0.12263040989637375

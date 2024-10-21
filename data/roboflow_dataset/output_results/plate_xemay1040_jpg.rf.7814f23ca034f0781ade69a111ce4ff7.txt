@@ -1,0 +1,2 @@
+Text: 07 F74, Probability: 0.09547238567909082
+Text: 6919, Probability: 0.6336267590522766

@@ -1,0 +1,2 @@
+Text: EFF, Probability: 0.12428331023430544
+Text: '63034, Probability: 0.6784994339548122

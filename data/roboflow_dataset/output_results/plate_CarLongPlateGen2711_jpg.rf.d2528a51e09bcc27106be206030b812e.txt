@@ -1,0 +1,2 @@
+Text: GIF, Probability: 0.18675448266347164
+Text: 20754, Probability: 0.5775307369745802

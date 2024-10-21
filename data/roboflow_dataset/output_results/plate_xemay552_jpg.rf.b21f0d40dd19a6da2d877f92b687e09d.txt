@@ -1,0 +1,2 @@
+Text: 59,p2, Probability: 0.37037369845851487
+Text: 7002.63, Probability: 0.23913983826379606

@@ -49,4 +49,5 @@ setuptools>=70.0.0 # Snyk vulnerability fix
 # pycocotools>=2.0.6  # COCO mAP
 ipykernel
 
-
+torchaudio
+easyocr

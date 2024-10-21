@@ -1,0 +1,2 @@
+Text: 04, Probability: 0.3003354231102366
+Text: YIBbB, Probability: 0.06168420933219787

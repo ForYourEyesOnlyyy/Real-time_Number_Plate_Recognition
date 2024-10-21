@@ -1,0 +1,2 @@
+Text: 64 HZ, Probability: 0.39163779081606587
+Text: 8118, Probability: 0.9246987422920925

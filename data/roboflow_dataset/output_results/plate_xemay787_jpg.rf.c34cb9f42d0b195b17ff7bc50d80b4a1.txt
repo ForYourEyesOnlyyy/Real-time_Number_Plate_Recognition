@@ -1,0 +1,2 @@
+Text: 95 H, Probability: 0.9386228322982788
+Text: U2L78|, Probability: 0.10915330657209579

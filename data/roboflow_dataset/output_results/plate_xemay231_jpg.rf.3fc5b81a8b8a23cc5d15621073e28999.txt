@@ -1,0 +1,2 @@
+Text: 59*80 |, Probability: 0.10303430130224948
+Text: 602.1U, Probability: 0.2532008479286491

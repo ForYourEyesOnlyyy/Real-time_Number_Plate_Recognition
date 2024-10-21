@@ -1,0 +1,2 @@
+Text: 50,L2, Probability: 0.1460106136106498
+Text: 723164, Probability: 0.435470800906954

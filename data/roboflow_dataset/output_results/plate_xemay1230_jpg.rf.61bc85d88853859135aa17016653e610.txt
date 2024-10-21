@@ -1,0 +1,2 @@
+Text: 56 PL, Probability: 0.3693648712374754
+Text: 6734, Probability: 0.9640753269195557

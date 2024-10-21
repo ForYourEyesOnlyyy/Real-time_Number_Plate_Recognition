@@ -1,0 +1,2 @@
+Text: 06'H7, Probability: 0.2559607947828941
+Text: 9591, Probability: 0.7809673547744751

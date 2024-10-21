@@ -1,0 +1,2 @@
+Text: 3993, Probability: 0.9620537757873535
+Text: BQv:, Probability: 0.35026922821998596

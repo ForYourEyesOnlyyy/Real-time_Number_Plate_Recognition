@@ -1,0 +1,2 @@
+Text: FF, Probability: 0.08045013037782509
+Text: 59881, Probability: 0.4646719668655943

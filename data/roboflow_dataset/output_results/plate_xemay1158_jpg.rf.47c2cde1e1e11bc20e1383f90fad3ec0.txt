@@ -1,0 +1,2 @@
+Text: 50 ul, Probability: 0.08997269582423849
+Text: 3070, Probability: 0.7002630233764648

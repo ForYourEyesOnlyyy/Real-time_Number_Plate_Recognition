@@ -1,0 +1,2 @@
+Text: G1F:, Probability: 0.49719998240470886
+Text: '802 70, Probability: 0.18122945836546614

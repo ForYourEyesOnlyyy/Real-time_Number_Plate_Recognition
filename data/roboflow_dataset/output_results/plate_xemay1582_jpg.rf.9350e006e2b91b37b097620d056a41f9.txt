@@ -1,0 +1,2 @@
+Text: 55*82, Probability: 0.3697240862185799
+Text: OULU, Probability: 0.15114985406398773

@@ -1,0 +1,2 @@
+Text: 59', Probability: 0.4156322000679538
+Text: 695.92, Probability: 0.533435606906653

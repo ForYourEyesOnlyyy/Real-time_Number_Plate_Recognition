@@ -1,0 +1,2 @@
+Text: 59 E7|, Probability: 0.22061425021450556
+Text: 729565, Probability: 0.40226417813890303
