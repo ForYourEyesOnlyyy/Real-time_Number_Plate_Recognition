@@ -1,13 +1,12 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
-
+names:
+- License_Plate
 nc: 1
-names: ['License_Plate']
-
 roboflow:
-  workspace: augmented-startups
-  project: vehicle-registration-plates-trudk
-  version: 2
   license: CC BY 4.0
+  project: vehicle-registration-plates-trudk
   url: https://universe.roboflow.com/augmented-startups/vehicle-registration-plates-trudk/dataset/2
+  version: 2
+  workspace: augmented-startups
+test: /home/roma/5sem/Real-time_Number_Plate_Recognition/data/roboflow_dataset/test/images
+train: /home/roma/5sem/Real-time_Number_Plate_Recognition/data/roboflow_dataset/train/images
+val: /home/roma/5sem/Real-time_Number_Plate_Recognition/data/roboflow_dataset/valid/images
