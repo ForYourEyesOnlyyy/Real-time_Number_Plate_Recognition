@@ -1,0 +1,2 @@
+Text: 638, Probability: 0.9999997246979434
+Text: SN, Probability: 0.9996746418342058

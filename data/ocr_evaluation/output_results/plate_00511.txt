@@ -1,0 +1,3 @@
+Text: U, Probability: 0.0036177161143552544
+Text: 0, Probability: 0.041485369889798784
+Text: 8, Probability: 0.9543626879624298

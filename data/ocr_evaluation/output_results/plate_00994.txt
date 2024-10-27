@@ -1,0 +1,2 @@
+Text: 1I, Probability: 0.39399560657271754
+Text: 0 CT, Probability: 0.9479762315750122

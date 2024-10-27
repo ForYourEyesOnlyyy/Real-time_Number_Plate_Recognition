@@ -1,0 +1,3 @@
+Text: JK, Probability: 0.9901649289327846
+Text: 0L, Probability: 0.38753898542341897
+Text: 15, Probability: 0.9999985670074514

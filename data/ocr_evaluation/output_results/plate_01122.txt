@@ -1,0 +1,3 @@
+Text: 779, Probability: 0.49468150515660503
+Text: F, Probability: 0.9893670525667773
+Text: 0, Probability: 0.6926694279554937

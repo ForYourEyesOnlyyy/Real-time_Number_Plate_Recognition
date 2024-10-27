@@ -1,0 +1,3 @@
+Text: 06, Probability: 0.99718600445704
+Text: 2, Probability: 1.0
+Text: Cz, Probability: 0.45461277914678794

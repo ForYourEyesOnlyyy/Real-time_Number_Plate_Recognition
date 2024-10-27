@@ -1,0 +1,2 @@
+Text: S, Probability: 0.5689284739065705
+Text: 5, Probability: 0.5234845265395194

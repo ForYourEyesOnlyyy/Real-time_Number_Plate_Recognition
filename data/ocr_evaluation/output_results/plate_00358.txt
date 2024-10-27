@@ -1,0 +1,3 @@
+Text: E, Probability: 0.66923988112109
+Text: 999, Probability: 0.9985925133325378
+Text: TW, Probability: 0.8451630297070738

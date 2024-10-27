@@ -1,0 +1,3 @@
+Text: :, Probability: 0.3963593697805301
+Text: 859, Probability: 0.9549862742424011
+Text: CM, Probability: 0.9020311750203508

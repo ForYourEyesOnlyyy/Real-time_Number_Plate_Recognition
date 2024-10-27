@@ -1,0 +1,4 @@
+Text: 6, Probability: 0.17425294157814708
+Text: 88, Probability: 0.9999979769518709
+Text: 5, Probability: 0.9999966621426779
+Text: VV, Probability: 0.9497207485003504

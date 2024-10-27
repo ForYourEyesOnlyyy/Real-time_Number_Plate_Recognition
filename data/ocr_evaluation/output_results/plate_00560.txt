@@ -1,0 +1,3 @@
+Text: Do, Probability: 0.26705880706685003
+Text: C, Probability: 0.9242856665213282
+Text: 2, Probability: 0.908022257859816

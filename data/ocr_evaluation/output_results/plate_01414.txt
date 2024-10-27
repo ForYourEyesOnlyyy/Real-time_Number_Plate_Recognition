@@ -1,0 +1,2 @@
+Text: 6 LX, Probability: 0.36132317864710045
+Text: L110, Probability: 0.058772921562194824

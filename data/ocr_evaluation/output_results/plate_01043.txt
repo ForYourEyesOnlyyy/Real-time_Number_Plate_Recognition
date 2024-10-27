@@ -1,0 +1,3 @@
+Text: =, Probability: 0.05963391226881587
+Text: 399, Probability: 0.999995182215476
+Text: DV, Probability: 0.8822355993323158

@@ -1,0 +1,3 @@
+Text: 201, Probability: 0.1765952247392912
+Text: 66, Probability: 0.9997526069632147
+Text: NF, Probability: 0.9980928824215471

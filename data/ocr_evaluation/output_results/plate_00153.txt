@@ -1,0 +1,2 @@
+Text: 4509, Probability: 0.8970481157302856
+Text: SS, Probability: 0.9725638747249249

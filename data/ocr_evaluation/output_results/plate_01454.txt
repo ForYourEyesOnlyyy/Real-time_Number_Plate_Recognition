@@ -1,0 +1,3 @@
+Text: FOM, Probability: 0.7731862938979863
+Text: t, Probability: 0.014785591104586937
+Text: 652, Probability: 0.9999927044989317

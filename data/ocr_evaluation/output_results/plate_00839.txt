@@ -1,0 +1,3 @@
+Text: E, Probability: 0.9279611096653753
+Text: 065, Probability: 0.9998133475361473
+Text: ZN, Probability: 0.9998315010578519

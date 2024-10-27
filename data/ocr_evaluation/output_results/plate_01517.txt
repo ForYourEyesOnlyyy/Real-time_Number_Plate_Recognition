@@ -1,0 +1,2 @@
+Text: L99, Probability: 0.3880090778656928
+Text: RK, Probability: 0.8098910889858175

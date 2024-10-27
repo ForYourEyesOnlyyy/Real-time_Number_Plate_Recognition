@@ -1,0 +1,2 @@
+Text: J, Probability: 0.3035712446818515
+Text: R, Probability: 0.9983169967159142

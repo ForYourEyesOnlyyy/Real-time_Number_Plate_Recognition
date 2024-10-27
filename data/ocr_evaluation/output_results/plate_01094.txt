@@ -1,0 +1,2 @@
+Text: (9, Probability: 0.29551496498572993
+Text: SMI, Probability: 0.20315512076217215

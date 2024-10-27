@@ -1,0 +1,4 @@
+Text: 190C, Probability: 0.4779466688632965
+Text: Bl, Probability: 0.5637868307174068
+Text: 0, Probability: 0.6299281510353048
+Text: 6, Probability: 0.9950428797635915

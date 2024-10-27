@@ -1,0 +1,4 @@
+Text: 6, Probability: 0.9999898672360565
+Text: Ei, Probability: 0.2763352888477118
+Text: MT, Probability: 0.9025885163055033
+Text: 040, Probability: 0.39911439119112424

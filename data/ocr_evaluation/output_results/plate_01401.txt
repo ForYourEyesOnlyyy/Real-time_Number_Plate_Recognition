@@ -1,0 +1,3 @@
+Text: F, Probability: 0.9973186371512952
+Text: M, Probability: 0.8736066185047662
+Text: [28/9, Probability: 0.5920759307217665

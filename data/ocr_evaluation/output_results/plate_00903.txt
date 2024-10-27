@@ -1,0 +1,3 @@
+Text: 8109, Probability: 0.551788926963514
+Text: DG, Probability: 0.8350614467227693
+Text: eMMMadad, Probability: 0.11583405240872989

@@ -1,0 +1,2 @@
+Text: LChG, Probability: 0.3065433916113542
+Text: 026_, Probability: 0.8374829888343811

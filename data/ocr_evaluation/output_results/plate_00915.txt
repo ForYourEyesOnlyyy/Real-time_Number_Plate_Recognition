@@ -1,0 +1,2 @@
+Text: 420, Probability: 0.6832042227806093
+Text: JC, Probability: 0.7298299525378057

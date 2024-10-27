@@ -1,0 +1,2 @@
+Text: Jn, Probability: 0.2509152768376607
+Text: 50u4, Probability: 0.2066022902727127

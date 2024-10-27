@@ -1,0 +1,2 @@
+Text: L2EI6, Probability: 0.6055552019692185
+Text: KT, Probability: 0.18393877279207146

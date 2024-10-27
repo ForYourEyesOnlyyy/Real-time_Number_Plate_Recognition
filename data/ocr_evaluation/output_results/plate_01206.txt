@@ -1,0 +1,2 @@
+Text: IJC, Probability: 0.9904802284648289
+Text: 774, Probability: 0.992289273558069

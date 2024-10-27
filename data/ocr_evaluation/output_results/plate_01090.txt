@@ -1,0 +1,3 @@
+Text: 2, Probability: 0.21204869633175694
+Text: 53, Probability: 0.8600976049063542
+Text: L LR, Probability: 0.6284162610285775

@@ -1,0 +1,3 @@
+Text: #, Probability: 0.24260827740443247
+Text: 187, Probability: 0.9999877490683106
+Text: RN, Probability: 0.9996430348568135

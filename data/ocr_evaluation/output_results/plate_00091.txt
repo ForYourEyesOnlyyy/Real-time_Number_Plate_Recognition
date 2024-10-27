@@ -1,0 +1,2 @@
+Text: 8155, Probability: 0.33015158772468567
+Text: GV, Probability: 0.9252246748893407

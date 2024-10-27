@@ -1,0 +1,2 @@
+Text: 783, Probability: 0.9999995870469189
+Text: PT, Probability: 0.9941849904292616

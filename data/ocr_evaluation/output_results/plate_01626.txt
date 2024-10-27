@@ -1,0 +1,2 @@
+Text: BB, Probability: 0.9986825752464792
+Text: 0130795, Probability: 0.2584453881060863

@@ -1,0 +1,3 @@
+Text: 33, Probability: 0.9999984827137908
+Text: HR, Probability: 0.9997056590992409
+Text: 3, Probability: 0.9999992847443906

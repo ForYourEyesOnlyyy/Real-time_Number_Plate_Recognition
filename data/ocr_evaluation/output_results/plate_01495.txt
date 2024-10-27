@@ -1,0 +1,4 @@
+Text: 16, Probability: 0.9819278431394047
+Text: ZU, Probability: 0.7470233120603004
+Text: M, Probability: 0.8540670852998034
+Text: 28, Probability: 0.9998423224097434

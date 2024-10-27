@@ -1,0 +1,2 @@
+Text: ScS, Probability: 0.288590551101348
+Text: 4105, Probability: 0.3800464868545532

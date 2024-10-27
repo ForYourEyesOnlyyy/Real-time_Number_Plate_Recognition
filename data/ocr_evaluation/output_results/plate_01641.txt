@@ -1,0 +1,3 @@
+Text: UD, Probability: 0.17837404841054724
+Text: D Rl, Probability: 0.10760606080293655
+Text: 488, Probability: 0.8544343276269415

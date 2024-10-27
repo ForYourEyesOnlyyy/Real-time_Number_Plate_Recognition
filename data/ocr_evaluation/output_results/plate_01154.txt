@@ -1,0 +1,2 @@
+Text: 1016 H, Probability: 0.8002014719081504
+Text: F, Probability: 0.9963062603361692

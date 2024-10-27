@@ -1,0 +1,3 @@
+Text: 473, Probability: 0.949434220790863
+Text: 7, Probability: 0.9996384709065218
+Text: RM, Probability: 0.4810944195161783

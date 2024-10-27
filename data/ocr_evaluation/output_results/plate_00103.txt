@@ -1,0 +1,2 @@
+Text: 5104, Probability: 0.5135303139686584
+Text: DG, Probability: 0.9040193015098814

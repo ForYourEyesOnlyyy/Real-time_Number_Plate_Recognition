@@ -1,0 +1,2 @@
+Text: 3L4], Probability: 0.6968240737915039
+Text: RY, Probability: 0.9816916611312572

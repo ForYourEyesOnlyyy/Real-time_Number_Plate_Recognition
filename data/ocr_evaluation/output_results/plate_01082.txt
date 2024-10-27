@@ -1,0 +1,3 @@
+Text: L, Probability: 0.78402709555181
+Text: 0L, Probability: 0.8813505229824583
+Text: GG, Probability: 0.9797017533494707

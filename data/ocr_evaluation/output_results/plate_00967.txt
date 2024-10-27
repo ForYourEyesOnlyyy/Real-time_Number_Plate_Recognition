@@ -1,0 +1,4 @@
+Text: E, Probability: 0.6790351363889044
+Text: 875, Probability: 0.23224292695522308
+Text: 4, Probability: 0.9969092684171734
+Text: ZZ, Probability: 0.9900922264391786

@@ -1,0 +1,3 @@
+Text: Cud, Probability: 0.00012653497653625334
+Text: Ja, Probability: 0.5382215605601848
+Text: 657, Probability: 0.6047277220372183

@@ -1,0 +1,4 @@
+Text: 21, Probability: 0.9999989884757856
+Text: 6, Probability: 0.43017033117900283
+Text: NG, Probability: 0.8298579233337542
+Text: 16, Probability: 0.36239582933029457

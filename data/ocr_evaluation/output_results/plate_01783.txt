@@ -1,0 +1,2 @@
+Text: 95, Probability: 0.48361678722148416
+Text: C, Probability: 0.21678217945702105

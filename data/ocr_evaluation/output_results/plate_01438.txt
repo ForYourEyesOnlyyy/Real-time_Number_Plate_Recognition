@@ -1,0 +1,2 @@
+Text: L62/1, Probability: 0.2816273538338421
+Text: DY, Probability: 0.9912640616594754

@@ -1,0 +1,5 @@
+Text: E, Probability: 0.12362565555168104
+Text: 810, Probability: 0.3253779299767671
+Text: 18, Probability: 0.2725138054838767
+Text: Y, Probability: 0.010550766221285812
+Text: 2, Probability: 0.012222670096040389

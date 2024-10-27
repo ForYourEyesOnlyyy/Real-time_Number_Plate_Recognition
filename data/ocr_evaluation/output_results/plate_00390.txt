@@ -1,0 +1,2 @@
+Text: 61, Probability: 0.9976204603526171
+Text: DX, Probability: 0.9561168327886598

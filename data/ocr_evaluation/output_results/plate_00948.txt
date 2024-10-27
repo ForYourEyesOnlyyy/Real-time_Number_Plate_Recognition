@@ -1,0 +1,4 @@
+Text: 4, Probability: 0.1735679418196634
+Text: 27, Probability: 0.9999885360764513
+Text: T, Probability: 0.03240011522780173
+Text: 4, Probability: 0.021206830195016124
