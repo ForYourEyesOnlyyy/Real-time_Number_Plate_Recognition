@@ -1,2 +1,2 @@
-Text: Q0 €, Probability: 0.12248792499303818
-Text: 237.74, Probability: 0.5868309241555137
+Text: Q0€4, Probability: 0.09511134773492813
+Text: 237.74, Probability: 0.37232791845334157

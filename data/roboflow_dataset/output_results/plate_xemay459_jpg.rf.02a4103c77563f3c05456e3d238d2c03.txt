@@ -1,2 +1,2 @@
-Text: 49 Fh, Probability: 0.19680895905069823
-Text: 08g 60, Probability: 0.1984681798980698
+Text: 49 F1, Probability: 0.1686540021392179
+Text: 006 60, Probability: 0.4296287335494657

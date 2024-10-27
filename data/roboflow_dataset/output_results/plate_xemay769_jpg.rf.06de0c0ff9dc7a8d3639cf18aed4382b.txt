@@ -1,2 +1,2 @@
-Text: 54'F3, Probability: 0.4234901006160981
-Text: 0667, Probability: 0.985323965549469
+Text: 54F3, Probability: 0.9121789932250977
+Text: 0667, Probability: 0.9891294836997986

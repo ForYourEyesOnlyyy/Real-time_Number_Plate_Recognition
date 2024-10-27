@@ -1,2 +1,2 @@
-Text: 54 [, Probability: 0.49378472566604614
-Text: 2443, Probability: 0.8174138069152832
+Text: 54 @, Probability: 0.16266342997550964
+Text: 2443], Probability: 0.4323659949467932

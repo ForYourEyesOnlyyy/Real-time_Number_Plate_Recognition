@@ -1,2 +1,2 @@
-Text: 05 S, Probability: 0.6532794237136841
-Text: 5378, Probability: 0.5466415286064148
+Text: 05 S, Probability: 0.4317859308452612
+Text: 5378, Probability: 0.6895622611045837

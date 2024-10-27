@@ -1,2 +1,2 @@
-Text: 65*$2, Probability: 0.1431754723951562
-Text: 1319, Probability: 0.9960442781448364
+Text: 65 02, Probability: 0.20514702103474414
+Text: 1319, Probability: 0.995416522026062

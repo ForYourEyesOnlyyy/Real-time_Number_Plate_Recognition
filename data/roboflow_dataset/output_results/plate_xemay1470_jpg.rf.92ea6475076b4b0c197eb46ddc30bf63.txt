@@ -1,2 +1,2 @@
-Text: 52,82, Probability: 0.212386079576026
-Text: 4032, Probability: 0.10506661981344223
+Text: 52,52, Probability: 0.17692258187206886
+Text: 6032, Probability: 0.471338152885437

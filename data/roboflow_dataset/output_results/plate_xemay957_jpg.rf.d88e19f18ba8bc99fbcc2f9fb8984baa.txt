@@ -1,2 +1,2 @@
-Text: 06 P1, Probability: 0.3602195337977552
-Text: 51993, Probability: 0.9878618304862368
+Text: 66P1, Probability: 0.5990290641784668
+Text: 51993 , Probability: 0.5570944963360434

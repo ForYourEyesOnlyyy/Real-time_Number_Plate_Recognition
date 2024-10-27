@@ -1,1 +1,1 @@
-Text: 68250, Probability: 0.6945868097537039
+Text: 6825u, Probability: 0.2409409410504772

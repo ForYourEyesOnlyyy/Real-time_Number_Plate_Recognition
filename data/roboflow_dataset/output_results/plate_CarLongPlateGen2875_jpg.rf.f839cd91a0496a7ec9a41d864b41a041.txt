@@ -1,2 +1,2 @@
-Text: goA:, Probability: 0.09733296185731888
-Text: 35981, Probability: 0.8975814704741664
+Text: go4:, Probability: 0.10354600846767426
+Text: '35981, Probability: 0.7906260583891859

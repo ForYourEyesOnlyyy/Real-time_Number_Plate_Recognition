@@ -1,2 +1,2 @@
-Text: 79 CA, Probability: 0.5105412193813185
-Text: 221711, Probability: 0.1898334397016856
+Text: 79 €H, Probability: 0.5052843211696239
+Text: 221771, Probability: 0.5608076990649942

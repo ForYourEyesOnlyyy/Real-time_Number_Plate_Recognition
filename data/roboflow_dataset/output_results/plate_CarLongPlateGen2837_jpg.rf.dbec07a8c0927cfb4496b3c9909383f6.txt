@@ -1,1 +1,2 @@
-Text: 61405227, Probability: 0.4176637170261389
+Text: G4, Probability: 0.08622875240541243
+Text: 05227, Probability: 0.996947869994888

@@ -1,2 +1,2 @@
-Text: 59 KL, Probability: 0.3438499026555803
-Text: 22599, Probability: 0.755065013809157
+Text: 59 KL, Probability: 0.21561429430992898
+Text: 22599, Probability: 0.9695895447433326

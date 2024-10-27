@@ -1,2 +1,1 @@
-Text: GIF 6, Probability: 0.06060355737677474
-Text: '63034, Probability: 0.6976979674790711
+Text: FIF.63034, Probability: 0.3070634626620563

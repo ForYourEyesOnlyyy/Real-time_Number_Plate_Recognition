@@ -1,2 +1,2 @@
-Text: 59 V2, Probability: 0.38885605583315763
-Text: 04815, Probability: 0.8093181883870951
+Text: 59 H2, Probability: 0.2910631385105337
+Text: 348151, Probability: 0.0927315243261923

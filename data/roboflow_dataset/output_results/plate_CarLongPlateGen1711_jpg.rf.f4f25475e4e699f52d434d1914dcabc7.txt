@@ -1,2 +1,2 @@
-Text: G1:, Probability: 0.05471530101069904
-Text: 082 70, Probability: 0.6406698907937556
+Text: 082 70, Probability: 0.3965248888018164
+Text: F:, Probability: 0.08202307836842558

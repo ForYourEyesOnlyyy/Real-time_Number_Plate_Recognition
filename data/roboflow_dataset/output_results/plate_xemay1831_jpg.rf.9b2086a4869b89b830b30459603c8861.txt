@@ -1,2 +1,2 @@
-Text: 67 58, Probability: 0.17878892169588936
-Text: 4605, Probability: 0.7505238652229309
+Text: 51*58, Probability: 0.15001749885375332
+Text: 4605, Probability: 0.907383143901825

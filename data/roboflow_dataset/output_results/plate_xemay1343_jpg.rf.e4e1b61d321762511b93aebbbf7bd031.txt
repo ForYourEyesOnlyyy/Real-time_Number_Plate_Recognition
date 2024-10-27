@@ -1,2 +1,2 @@
-Text: 68 H7, Probability: 0.17539270745969313
-Text: 408LI7, Probability: 0.07940708824840931
+Text: 68 H, Probability: 0.5146053433418274
+Text: Db]I], Probability: 0.03537999940441869

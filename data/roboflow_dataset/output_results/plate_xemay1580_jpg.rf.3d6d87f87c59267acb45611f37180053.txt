@@ -1,2 +1,2 @@
-Text: 59 $7, Probability: 0.16785088450528995
-Text: 7262.08, Probability: 0.2895633691969586
+Text: 59 S1, Probability: 0.26632351868783594
+Text: 262.08, Probability: 0.9355937032203118

@@ -1,2 +1,2 @@
-Text: 67 8, Probability: 0.25406286120414734
-Text: 60b2?, Probability: 0.08136723317782116
+Text: 67*81, Probability: 0.5044191866204267
+Text: 60b.33 , Probability: 0.10745111434944833

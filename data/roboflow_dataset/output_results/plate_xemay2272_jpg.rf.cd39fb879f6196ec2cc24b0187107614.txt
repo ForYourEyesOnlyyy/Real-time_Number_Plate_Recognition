@@ -1,2 +1,2 @@
-Text: 59 C1, Probability: 0.4638474328466136
-Text: 639,92, Probability: 0.4530306628710089
+Text: 59 CI, Probability: 0.2997703743984607
+Text: 62993, Probability: 0.3005319919200177

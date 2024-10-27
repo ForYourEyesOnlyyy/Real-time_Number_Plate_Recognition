@@ -1,2 +1,2 @@
-Text: 59 VA, Probability: 0.44110737016752793
-Text: 100843, Probability: 0.42686631726661267
+Text: 50 VA, Probability: 0.2456033821852163
+Text: 100b43, Probability: 0.4573038697122268

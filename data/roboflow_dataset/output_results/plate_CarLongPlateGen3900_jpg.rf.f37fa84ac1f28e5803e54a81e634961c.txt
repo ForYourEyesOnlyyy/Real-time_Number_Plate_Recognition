@@ -1,2 +1,2 @@
-Text: (602 6, Probability: 0.2093690210652745
-Text: '0618 , Probability: 0.28307933806984625
+Text: 502 C, Probability: 0.730587833159892
+Text: 0618, Probability: 0.9808148145675659

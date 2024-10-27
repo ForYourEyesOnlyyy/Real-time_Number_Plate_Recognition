@@ -1,1 +1,2 @@
-Text: b9d9, Probability: 0.06159978359937668
+Text: 72 U, Probability: 0.29134708642959595
+Text: @d9dd, Probability: 0.028507697721752455

@@ -1,0 +1,2 @@
+Text: 153, Probability: 0.07993297497349683
+Text: GLg', Probability: 0.015607547014951706

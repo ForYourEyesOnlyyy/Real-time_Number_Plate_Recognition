@@ -1,2 +1,2 @@
-Text: 54 L3, Probability: 0.40817675268196657
-Text: 9902}, Probability: 0.4344342482581699
+Text: 54 L3, Probability: 0.3712841043180068
+Text: 9902, Probability: 0.9953358769416809

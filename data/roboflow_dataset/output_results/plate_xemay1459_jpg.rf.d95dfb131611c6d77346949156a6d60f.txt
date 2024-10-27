@@ -1,2 +1,2 @@
-Text: 69*V5, Probability: 0.15538493345065627
-Text: Dblu, Probability: 0.1430482268333435
+Text: 0blu, Probability: 0.10308580845594406
+Text: 68*V5, Probability: 0.20096486092334007

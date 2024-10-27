@@ -1,1 +1,2 @@
-Text: EIF.22261, Probability: 0.557843891184263
+Text: GIF:2, Probability: 0.3912352668641995
+Text: 222.61, Probability: 0.9581802781309353

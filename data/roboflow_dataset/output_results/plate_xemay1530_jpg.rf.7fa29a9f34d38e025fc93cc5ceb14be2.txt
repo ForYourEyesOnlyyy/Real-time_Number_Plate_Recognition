@@ -1,2 +1,2 @@
-Text: 53 P2, Probability: 0.48177929080542853
-Text: 4531, Probability: 0.5465158820152283
+Text: 53 P2, Probability: 0.8690807797482177
+Text: 4531, Probability: 0.6247313022613525

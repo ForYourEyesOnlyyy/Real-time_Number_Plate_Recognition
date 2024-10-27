@@ -1,2 +1,2 @@
-Text: F1F:, Probability: 0.4237581491470337
-Text: 173420, Probability: 0.2572219721500131
+Text: 20, Probability: 0.982118946379515
+Text: EEE734, Probability: 0.189593363004761

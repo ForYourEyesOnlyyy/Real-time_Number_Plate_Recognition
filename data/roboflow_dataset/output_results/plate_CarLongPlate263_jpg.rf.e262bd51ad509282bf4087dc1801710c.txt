@@ -1,2 +1,1 @@
-Text: E2Y €, Probability: 0.3421044172890087
-Text: 6490, Probability: 0.999448835849762
+Text: 52Y6490, Probability: 0.5181341807087397

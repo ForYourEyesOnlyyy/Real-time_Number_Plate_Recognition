@@ -1,1 +1,1 @@
-Text: GFF-8827, Probability: 0.25238773228852124
+Text: 6.8827, Probability: 0.4415734670123194

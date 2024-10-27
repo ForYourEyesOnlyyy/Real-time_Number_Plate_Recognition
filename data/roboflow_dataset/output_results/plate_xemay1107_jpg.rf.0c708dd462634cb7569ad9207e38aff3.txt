@@ -1,2 +1,2 @@
-Text: 59 H, Probability: 0.12244799733161926
-Text: 54192, Probability: 0.8585429972804117
+Text: 59 H, Probability: 0.3866550028324127
+Text: 541.92, Probability: 0.4325729051525249

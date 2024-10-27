@@ -1,2 +1,2 @@
-Text: 70 B1, Probability: 0.34282966192923187
-Text: 821.68, Probability: 0.7132286007034452
+Text: 70 01, Probability: 0.16017158977861773
+Text: 824.68, Probability: 0.25717667223117985

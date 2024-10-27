@@ -1,2 +1,2 @@
-Text: BL,6, Probability: 0.10127682238817215
-Text: 22593, Probability: 0.9760640091454627
+Text: 04,61, Probability: 0.39606394706508957
+Text: 22593, Probability: 0.9826247118122877

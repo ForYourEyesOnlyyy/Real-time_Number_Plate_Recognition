@@ -1,3 +1,2 @@
-Text: H, Probability: 0.9347791801928906
-Text: L, Probability: 0.12041266287108332
-Text: 6828, Probability: 0.6385939717292786
+Text: 59H, Probability: 0.4745570363572494
+Text: 46820, Probability: 0.5060333275074228

@@ -1,2 +1,2 @@
-Text: 59 W, Probability: 0.2960691750049591
-Text: 62561, Probability: 0.5514479026716357
+Text: 59,W, Probability: 0.19343024492263794
+Text: 62561, Probability: 0.706576894642576

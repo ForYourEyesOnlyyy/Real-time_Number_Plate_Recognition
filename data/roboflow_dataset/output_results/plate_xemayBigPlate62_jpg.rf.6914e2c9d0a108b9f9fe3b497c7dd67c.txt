@@ -1,2 +1,2 @@
-Text: 65*K2, Probability: 0.5548966336276951
-Text: 5502, Probability: 0.9930920992180995
+Text: 65*K2, Probability: 0.4706757716763529
+Text: 5502, Probability: 0.9999030828475952

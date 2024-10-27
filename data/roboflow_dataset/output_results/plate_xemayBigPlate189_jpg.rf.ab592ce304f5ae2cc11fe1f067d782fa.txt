@@ -1,2 +1,2 @@
-Text: 64;HL, Probability: 0.4409418954856232
-Text: 4e07, Probability: 0.2197757214307785
+Text: 64.HL, Probability: 0.5240149863494739
+Text: 4807, Probability: 0.6307017803192139

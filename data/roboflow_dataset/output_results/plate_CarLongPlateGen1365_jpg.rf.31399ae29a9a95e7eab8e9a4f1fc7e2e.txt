@@ -1,2 +1,2 @@
-Text: GF:, Probability: 0.1541669266882287
-Text: 5901, Probability: 0.2729937746867572
+Text: 61E., Probability: 0.17379291355609894
+Text: 5901, Probability: 0.5916776717097212

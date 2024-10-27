@@ -1,2 +1,2 @@
-Text: 07 F74, Probability: 0.09547238567909082
-Text: 6919, Probability: 0.6336267590522766
+Text: M7T7, Probability: 0.14627376198768616
+Text: 5919, Probability: 0.41252925992012024

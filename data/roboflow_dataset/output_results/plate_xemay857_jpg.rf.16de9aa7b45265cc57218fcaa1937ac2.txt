@@ -1,2 +1,2 @@
-Text: 59;52, Probability: 0.28042517906620346
-Text: 016U6, Probability: 0.4202625079327422
+Text: 5952, Probability: 0.6144166588783264
+Text: 016U6/, Probability: 0.13009181641960357

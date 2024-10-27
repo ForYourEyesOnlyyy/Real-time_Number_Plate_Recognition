@@ -1,2 +1,2 @@
-Text: 66*K9, Probability: 0.27506954095766256
-Text: 6118, Probability: 0.93155437707901
+Text: 66*K9, Probability: 0.7170377070309476
+Text: 6118, Probability: 0.9714041948318481

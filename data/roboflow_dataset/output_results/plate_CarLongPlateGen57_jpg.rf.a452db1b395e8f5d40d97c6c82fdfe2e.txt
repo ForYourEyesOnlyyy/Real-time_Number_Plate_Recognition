@@ -1,1 +1,1 @@
-Text: bunthu, Probability: 0.27176619181891687
+Text: bu, Probability: 0.512712620282967

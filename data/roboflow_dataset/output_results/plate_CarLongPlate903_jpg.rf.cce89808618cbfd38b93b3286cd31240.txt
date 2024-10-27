@@ -1,1 +1,2 @@
-Text: 60135981, Probability: 0.5908907167019358
+Text: g604:, Probability: 0.12329447244737346
+Text: 35981, Probability: 0.941471496457057

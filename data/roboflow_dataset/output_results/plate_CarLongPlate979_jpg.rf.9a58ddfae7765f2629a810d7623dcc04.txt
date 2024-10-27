@@ -1,2 +1,2 @@
-Text: E7F, Probability: 0.11397283233433819
-Text: "69269, Probability: 0.39445391307501004
+Text: GFF E, Probability: 0.09129166952512249
+Text: 69259, Probability: 0.7078938967871523

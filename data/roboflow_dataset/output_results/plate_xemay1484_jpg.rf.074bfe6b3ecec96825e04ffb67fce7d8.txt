@@ -1,1 +1,2 @@
-Text: 69927, Probability: 0.4217380361388256
+Text: UN, Probability: 0.21945402382120582
+Text: 6992, Probability: 0.8945622444152832

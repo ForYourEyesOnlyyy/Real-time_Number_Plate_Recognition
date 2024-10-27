@@ -1,2 +1,3 @@
-Text: 60 V2, Probability: 0.19188898666266635
-Text: 2445, Probability: 0.984614372253418
+Text: 60, Probability: 0.625086924173842
+Text: Y2, Probability: 0.2872091126774677
+Text: 2645, Probability: 0.6333937048912048

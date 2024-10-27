@@ -1,2 +1,2 @@
-Text: 59 FI, Probability: 0.3287119418195957
-Text: LZlgd, Probability: 0.030436450829035743
+Text: 59 F1, Probability: 0.4728125346187948
+Text: 1ang0, Probability: 0.08495311501926135

@@ -1,2 +1,2 @@
-Text: 86 [, Probability: 0.6691689491271973
-Text: W1J, Probability: 0.06648258290653189
+Text: 66 [, Probability: 0.2791093027222301
+Text: Q21J9, Probability: 0.05727338259064226

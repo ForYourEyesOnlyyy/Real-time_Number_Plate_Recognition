@@ -1,2 +1,3 @@
-Text: 59 B7, Probability: 0.3367645169371635
-Text: 39072, Probability: 0.29096957927904027
+Text: 59 B7, Probability: 0.11736254088168249
+Text: 12, Probability: 0.5745204195736012
+Text: 338 ", Probability: 0.1311134525064572

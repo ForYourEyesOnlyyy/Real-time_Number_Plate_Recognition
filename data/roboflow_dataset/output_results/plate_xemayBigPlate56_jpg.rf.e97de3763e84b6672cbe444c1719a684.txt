@@ -1,2 +1,2 @@
-Text: 64*L7, Probability: 0.34991514982208005
-Text: 4012, Probability: 0.9977814555168152
+Text: 64 L1, Probability: 0.4206063436512262
+Text: 4012, Probability: 0.8907012939453125

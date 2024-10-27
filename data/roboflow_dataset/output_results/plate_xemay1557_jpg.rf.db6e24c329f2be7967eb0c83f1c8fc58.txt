@@ -1,2 +1,2 @@
-Text: 59*Hh, Probability: 0.21067509588446143
-Text: 65550, Probability: 0.5386931104558998
+Text: 59 HP, Probability: 0.11878449177409363
+Text: 65555, Probability: 0.4820472908347751

@@ -1,2 +1,2 @@
-Text: 65113, Probability: 0.11914752292677848
-Text: 7640}, Probability: 0.18734293999797302
+Text: 51 [3, Probability: 0.11353714093010153
+Text: 2640, Probability: 0.5485618710517883

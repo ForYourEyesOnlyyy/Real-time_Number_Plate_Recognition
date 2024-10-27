@@ -1,2 +1,1 @@
-Text: 14], Probability: 0.08698056708008078
-Text: '16598, Probability: 0.5072297065504502
+Text: 614.165.98, Probability: 0.2294099537351296

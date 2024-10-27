@@ -1,2 +1,2 @@
-Text: 59 B1, Probability: 0.3236263019245724
-Text: 722119, Probability: 0.44621700782256163
+Text: 59B1, Probability: 0.3710371255874634
+Text: 22119, Probability: 0.6960215962666166

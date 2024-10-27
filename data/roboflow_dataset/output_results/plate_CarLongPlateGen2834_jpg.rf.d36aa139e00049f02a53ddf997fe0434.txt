@@ -1,2 +1,1 @@
-Text: EIF:, Probability: 0.3080393970012665
-Text: 590.]0, Probability: 0.27959708129063515
+Text: GIF.590.I1, Probability: 0.30327359253398695

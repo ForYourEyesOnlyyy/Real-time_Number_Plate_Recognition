@@ -1,2 +1,3 @@
-Text: G1F:, Probability: 0.49719998240470886
-Text: '802 70, Probability: 0.18122945836546614
+Text: 61F:, Probability: 0.14572840929031372
+Text: 70, Probability: 0.9419192266103688
+Text: 002', Probability: 0.25008895993232727

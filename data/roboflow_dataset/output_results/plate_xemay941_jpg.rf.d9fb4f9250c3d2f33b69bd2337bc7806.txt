@@ -1,2 +1,2 @@
-Text: 11C, Probability: 0.11570988611970687
-Text: 226.976, Probability: 0.2551851720534902
+Text: 11C1, Probability: 0.2672460675239563
+Text: 226.97, Probability: 0.7746219731158102

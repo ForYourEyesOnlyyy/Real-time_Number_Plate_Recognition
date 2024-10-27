@@ -1,1 +1,2 @@
-Text: 61C39468, Probability: 0.3400064676825428
+Text: 60, Probability: 0.9046626223830301
+Text: 610 394, Probability: 0.1177171520747451

@@ -1,1 +1,2 @@
-Text: EFL4614, Probability: 0.18246600166295915
+Text: 14, Probability: 0.2161909277259857
+Text: EF46L, Probability: 0.1044437406281143

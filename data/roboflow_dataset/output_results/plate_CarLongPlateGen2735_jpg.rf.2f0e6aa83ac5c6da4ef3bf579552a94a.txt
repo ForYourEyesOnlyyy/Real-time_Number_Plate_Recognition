@@ -1,2 +1,1 @@
-Text: 473401, Probability: 0.7033105698033482
-Text: I5i6E, Probability: 0.08678323038356409
+Text: g1c 473L01, Probability: 0.21529391612787024

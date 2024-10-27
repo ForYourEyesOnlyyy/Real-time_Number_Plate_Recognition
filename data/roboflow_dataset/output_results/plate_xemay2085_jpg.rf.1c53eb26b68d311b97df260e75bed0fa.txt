@@ -1,2 +1,2 @@
-Text: 005, Probability: 0.20761759201245542
-Text: MUL, Probability: 0.1877123309006565
+Text: 05 FU, Probability: 0.6049700163674129
+Text: 00LZ, Probability: 0.08708592504262924

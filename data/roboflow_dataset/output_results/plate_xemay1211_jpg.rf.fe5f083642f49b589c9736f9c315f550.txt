@@ -1,2 +1,2 @@
-Text: 54,05, Probability: 0.40952126815742484
-Text: 0bA?, Probability: 0.13977883756160736
+Text: 5405, Probability: 0.3903519809246063
+Text: 00024, Probability: 0.12446895083857891

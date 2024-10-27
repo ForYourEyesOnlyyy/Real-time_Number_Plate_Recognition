@@ -1,2 +1,2 @@
-Text: FF, Probability: 0.08045013037782509
-Text: 59881, Probability: 0.4646719668655943
+Text: 81, Probability: 0.715933239080618
+Text: 6F598, Probability: 0.654314257325451

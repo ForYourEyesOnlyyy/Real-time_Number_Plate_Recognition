@@ -1,2 +1,2 @@
-Text: 31601, Probability: 0.2414181527096653
-Text: 59 €2, Probability: 0.14884112404322453
+Text: D1601, Probability: 0.21986766673133648
+Text: 59 €2, Probability: 0.19035305630155475

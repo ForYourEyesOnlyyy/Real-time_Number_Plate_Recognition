@@ -1,1 +1,2 @@
-Text: 61D 4003g, Probability: 0.2313111648972644
+Text: 61d1, Probability: 0.09770078212022781
+Text: 51003g, Probability: 0.23053909600889858

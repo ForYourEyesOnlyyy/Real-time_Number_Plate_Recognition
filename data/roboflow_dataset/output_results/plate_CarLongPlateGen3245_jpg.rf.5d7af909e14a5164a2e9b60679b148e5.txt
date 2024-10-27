@@ -1,2 +1,2 @@
-Text: 611, Probability: 0.1497534825866416
-Text: '0660g, Probability: 0.4356247601983655
+Text: 6I6, Probability: 0.05601817255324355
+Text: "066 09, Probability: 0.22815443597151067

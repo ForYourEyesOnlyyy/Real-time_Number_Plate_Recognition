@@ -1,2 +1,2 @@
-Text: 75F1, Probability: 0.7347077131271362
-Text: 1290.30, Probability: 0.4838668579680625
+Text: 75F1, Probability: 0.8186142444610596
+Text: 298,20, Probability: 0.20452141538622506

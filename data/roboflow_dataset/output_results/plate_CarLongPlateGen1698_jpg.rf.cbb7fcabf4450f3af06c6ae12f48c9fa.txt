@@ -1,1 +1,2 @@
-Text: 30V.3993, Probability: 0.36679274033938586
+Text: Qv: =, Probability: 0.17044602731729439
+Text: 3993, Probability: 0.8134856283345179

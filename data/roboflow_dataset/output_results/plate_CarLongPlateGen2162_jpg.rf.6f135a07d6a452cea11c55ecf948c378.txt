@@ -1,2 +1,1 @@
-Text: EFF:, Probability: 0.36729201674461365
-Text: '15505, Probability: 0.2915083662384869
+Text: GIF.15585, Probability: 0.49167405255987173

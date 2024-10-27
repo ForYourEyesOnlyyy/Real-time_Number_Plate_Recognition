@@ -1,2 +1,2 @@
-Text: 79*21, Probability: 0.4937277785251674
-Text: 5804, Probability: 0.793620765209198
+Text: 5804, Probability: 0.42882680892944336
+Text: 79 21, Probability: 0.33039723239543184

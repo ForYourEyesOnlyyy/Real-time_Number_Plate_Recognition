@@ -1,1 +1,2 @@
-Text: Ei, Probability: 0.24511770079381165
+Text: Sh4, Probability: 0.02344528722208767
+Text: 6579, Probability: 0.2034295499110823

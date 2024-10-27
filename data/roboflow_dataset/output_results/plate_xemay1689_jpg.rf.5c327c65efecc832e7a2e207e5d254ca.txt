@@ -1,2 +1,2 @@
-Text: (7861, Probability: 0.12454480910679848
-Text: 0754, Probability: 0.5813087821006775
+Text: 78 6, Probability: 0.48130813241004944
+Text: 17544, Probability: 0.5159213782334979

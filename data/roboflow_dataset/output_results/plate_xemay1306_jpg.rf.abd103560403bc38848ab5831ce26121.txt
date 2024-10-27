@@ -1,2 +1,2 @@
-Text: 69 K, Probability: 0.1991647481918335
-Text: 1865,59, Probability: 0.3374510876095428
+Text: 594K, Probability: 0.33482807699188055
+Text: 86559, Probability: 0.8866172965672799

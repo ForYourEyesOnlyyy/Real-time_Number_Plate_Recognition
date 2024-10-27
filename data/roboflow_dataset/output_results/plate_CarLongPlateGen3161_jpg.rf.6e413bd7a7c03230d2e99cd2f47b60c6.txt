@@ -1,1 +1,1 @@
-Text: 64, Probability: 0.04312348510573825
+Text: Da41|, Probability: 0.058909599811426

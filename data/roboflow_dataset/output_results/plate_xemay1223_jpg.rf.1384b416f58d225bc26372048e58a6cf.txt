@@ -1,2 +1,2 @@
-Text: 50 €1, Probability: 0.20100123063991493
-Text: LU, Probability: 0.4226070987694068
+Text: 50 C, Probability: 0.14193202555179596
+Text: 61IU, Probability: 0.08814819157123566

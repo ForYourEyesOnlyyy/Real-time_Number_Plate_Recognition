@@ -1,2 +1,2 @@
-Text: 72 FL, Probability: 0.26790351702525056
-Text: 420740, Probability: 0.17366928746465513
+Text: I2F, Probability: 0.40536155001337626
+Text: 207 44, Probability: 0.20779410361185474

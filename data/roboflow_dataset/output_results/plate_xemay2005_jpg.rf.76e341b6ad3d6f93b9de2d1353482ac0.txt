@@ -1,1 +1,2 @@
-Text: M, Probability: 0.30066468753047104
+Text: F, Probability: 0.2951186461119768
+Text: L, Probability: 0.4336758874160296

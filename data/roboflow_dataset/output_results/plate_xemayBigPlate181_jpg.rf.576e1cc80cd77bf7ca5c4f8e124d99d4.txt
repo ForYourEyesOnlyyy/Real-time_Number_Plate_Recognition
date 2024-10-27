@@ -1,2 +1,2 @@
-Text: 766 V, Probability: 0.07905132113982066
-Text: 089.13, Probability: 0.3079448981322722
+Text: 66*V, Probability: 0.2717057168483734
+Text: J0bs11, Probability: 0.07955330200984494

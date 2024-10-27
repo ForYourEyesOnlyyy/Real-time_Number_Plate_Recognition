@@ -1,1 +1,2 @@
-Text: 6F35613, Probability: 0.471205609218284
+Text: 13, Probability: 0.9916431035552742
+Text: 67F.3561, Probability: 0.18653420222449246

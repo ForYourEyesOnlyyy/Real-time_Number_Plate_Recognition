@@ -1,1 +1,2 @@
-Text: (137307, Probability: 0.5527232206509984
+Text: 1G, Probability: 0.7813194598058281
+Text: 37307, Probability: 0.8687619430789003

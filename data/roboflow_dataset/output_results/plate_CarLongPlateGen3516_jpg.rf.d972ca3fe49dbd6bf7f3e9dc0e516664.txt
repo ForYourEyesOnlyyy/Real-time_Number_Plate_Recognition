@@ -1,1 +1,2 @@
-Text: 616.394.66, Probability: 0.7267339865757038
+Text: 66, Probability: 0.9681797761832871
+Text: 516 39LE, Probability: 0.40361809596611153

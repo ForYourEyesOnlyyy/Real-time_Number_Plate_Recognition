@@ -1,0 +1,2 @@
+Text: 6 M, Probability: 0.15664878971620214
+Text: WJ, Probability: 0.28419796692398996

@@ -1,1 +1,2 @@
-Text: 628, Probability: 0.0514910450466371
+Text: 77.H6, Probability: 0.2143673667751987
+Text: 2229, Probability: 0.5401393175125122

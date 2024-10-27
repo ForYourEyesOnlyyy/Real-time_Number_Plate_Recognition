@@ -1,1 +1,1 @@
-Text: E2Y 6490], Probability: 0.3892971828462463
+Text: E2Y.6490}, Probability: 0.44210773152527194

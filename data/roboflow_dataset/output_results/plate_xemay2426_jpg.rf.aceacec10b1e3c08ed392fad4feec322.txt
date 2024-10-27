@@ -1,2 +1,2 @@
-Text: Kw, Probability: 0.13129196996072562
-Text: 0b26, Probability: 0.35757413506507874
+Text: #O, Probability: 0.04011575172523926
+Text: 0826, Probability: 0.36198529601097107

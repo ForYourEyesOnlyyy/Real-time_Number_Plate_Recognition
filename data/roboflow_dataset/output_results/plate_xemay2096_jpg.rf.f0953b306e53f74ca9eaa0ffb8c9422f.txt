@@ -1,2 +1,2 @@
-Text: 65*52, Probability: 0.27588246935793054
-Text: 1219, Probability: 0.9366369843482971
+Text: 65*52, Probability: 0.4161558893694592
+Text: 1319, Probability: 0.948444664478302

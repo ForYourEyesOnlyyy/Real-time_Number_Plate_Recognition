@@ -1,2 +1,2 @@
-Text: 53*86, Probability: 0.23701406828230584
-Text: 6011, Probability: 0.9797416448666902
+Text: 5/6, Probability: 0.4992431250452645
+Text: 6011, Probability: 0.9915513396263123

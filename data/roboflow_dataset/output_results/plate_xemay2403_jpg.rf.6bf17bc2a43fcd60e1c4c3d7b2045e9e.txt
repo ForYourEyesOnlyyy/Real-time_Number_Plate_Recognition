@@ -1,0 +1,2 @@
+Text: 59m, Probability: 0.40551431683014527
+Text: Dia, Probability: 0.022765977460866626

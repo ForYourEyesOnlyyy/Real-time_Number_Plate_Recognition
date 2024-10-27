@@ -1,2 +1,2 @@
-Text: F9 12, Probability: 0.13546125805664258
-Text: QubbU, Probability: 0.1543690217858209
+Text: 59 12, Probability: 0.25929402662543194
+Text: Qud, Probability: 0.3714162463937534

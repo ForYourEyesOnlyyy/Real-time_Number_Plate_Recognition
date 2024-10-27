@@ -1,1 +1,2 @@
-Text: 61005227, Probability: 0.4389556084472282
+Text: GC, Probability: 0.4322103756011661
+Text: 406222, Probability: 0.08676551449228992

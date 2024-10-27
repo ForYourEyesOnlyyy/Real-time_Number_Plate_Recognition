@@ -1,2 +1,2 @@
-Text: F9 M, Probability: 0.10736887156963348
-Text: 6229, Probability: 0.5832533836364746
+Text: Gyu, Probability: 0.14711746474020143
+Text: (m9, Probability: 0.10219909611756843

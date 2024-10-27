@@ -1,1 +1,2 @@
-Text: 5, Probability: 0.1084359883009336
+Text: Du, Probability: 0.31859741813195536
+Text: Dd, Probability: 0.10324108292692495

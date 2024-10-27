@@ -1,2 +1,2 @@
-Text: 67*09, Probability: 0.35896198235833354
-Text: 4984, Probability: 0.8372572660446167
+Text: 67-N9, Probability: 0.13015123399096792
+Text: 4984, Probability: 0.8502684831619263

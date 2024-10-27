@@ -1,2 +1,2 @@
-Text: 06, Probability: 0.9605735241226753
-Text: (852.24, Probability: 0.33265545358140247
+Text: 06 L, Probability: 0.33515164256095886
+Text: 0852.24, Probability: 0.25676638896579346

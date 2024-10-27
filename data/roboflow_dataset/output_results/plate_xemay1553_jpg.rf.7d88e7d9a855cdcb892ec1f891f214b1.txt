@@ -1,2 +1,2 @@
-Text: AL B, Probability: 0.36913248896598816
-Text: 19789, Probability: 0.42756507933052657
+Text: 82 b1, Probability: 0.09786031696361329
+Text: 19789, Probability: 0.6617706236826619

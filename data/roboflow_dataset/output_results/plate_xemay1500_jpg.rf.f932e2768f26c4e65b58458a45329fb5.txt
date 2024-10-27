@@ -1,2 +1,2 @@
-Text: 71+83, Probability: 0.18088790776539737
-Text: 9276, Probability: 0.9044110774993896
+Text: 71,53, Probability: 0.201246778389244
+Text: 9276, Probability: 0.9979168176651001

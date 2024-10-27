@@ -1,2 +1,2 @@
-Text: 93 C, Probability: 0.46082835376517695
-Text: 02079, Probability: 0.9771196842353334
+Text: 93 C, Probability: 0.8141049146652222
+Text: 02079, Probability: 0.9878610830413407

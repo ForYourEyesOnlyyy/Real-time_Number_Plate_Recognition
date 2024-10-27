@@ -1,0 +1,2 @@
+Text: Us, Probability: 0.057901363902991505
+Text: 1, Probability: 0.3585396728868204

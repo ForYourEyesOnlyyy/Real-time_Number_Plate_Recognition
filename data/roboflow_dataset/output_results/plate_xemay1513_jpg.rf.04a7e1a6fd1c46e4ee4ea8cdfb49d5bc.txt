@@ -1,2 +1,2 @@
-Text: 67 W, Probability: 0.06868617236614227
-Text: 0859, Probability: 0.15981552004814148
+Text: U7w, Probability: 0.11632010464973043
+Text: 0b59, Probability: 0.24800890684127808

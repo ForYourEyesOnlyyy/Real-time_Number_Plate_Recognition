@@ -1,1 +1,2 @@
-Text: 6IC 1020g, Probability: 0.12220521475959537
+Text: 6161, Probability: 0.2647395730018616
+Text: 10209, Probability: 0.859072646616059

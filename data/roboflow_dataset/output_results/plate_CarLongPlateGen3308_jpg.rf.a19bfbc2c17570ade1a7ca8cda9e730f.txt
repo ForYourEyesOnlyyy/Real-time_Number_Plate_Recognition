@@ -1,2 +1,1 @@
-Text: EE, Probability: 0.28090258708268473
-Text: 82608, Probability: 0.9038895000879669
+Text: E1F.82606, Probability: 0.15195412586095242

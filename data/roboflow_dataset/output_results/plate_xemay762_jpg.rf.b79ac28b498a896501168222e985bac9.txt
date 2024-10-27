@@ -1,2 +1,2 @@
-Text: D7M, Probability: 0.036520286820565524
-Text: 190.25, Probability: 0.6946978775265197
+Text: I1fH, Probability: 0.0836116299033165
+Text: 190258, Probability: 0.11152664518275851

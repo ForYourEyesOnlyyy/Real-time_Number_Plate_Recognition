@@ -1,1 +1,1 @@
-Text: 158250, Probability: 0.2663376382774045
+Text: 582 50, Probability: 0.3386704105219043

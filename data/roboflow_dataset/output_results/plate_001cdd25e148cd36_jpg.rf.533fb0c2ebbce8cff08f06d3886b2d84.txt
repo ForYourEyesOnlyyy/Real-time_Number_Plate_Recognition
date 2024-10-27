@@ -1,1 +1,1 @@
-Text: lcex, Probability: 0.4204809367656708
+Text: D, Probability: 0.04750897805303467

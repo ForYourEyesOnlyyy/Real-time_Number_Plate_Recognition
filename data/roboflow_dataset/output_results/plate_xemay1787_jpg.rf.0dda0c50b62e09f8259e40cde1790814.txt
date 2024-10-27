@@ -1,2 +1,2 @@
-Text: 59 K, Probability: 0.3717084527015686
-Text: L06 50, Probability: 0.3553670731941247
+Text: 5987, Probability: 0.2045082449913025
+Text: L406 50, Probability: 0.21036346836432088

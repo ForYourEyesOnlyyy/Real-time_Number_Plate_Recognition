@@ -1,1 +1,3 @@
-Text: 61059323, Probability: 0.873181487354796
+Text: 23, Probability: 0.995637137939502
+Text: 61, Probability: 0.24936501717086781
+Text: 55937, Probability: 0.7908772623434206

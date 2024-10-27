@@ -1,0 +1,2 @@
+Text: 59 UI, Probability: 0.4992940704160461
+Text: J997, Probability: 0.17780999839305878

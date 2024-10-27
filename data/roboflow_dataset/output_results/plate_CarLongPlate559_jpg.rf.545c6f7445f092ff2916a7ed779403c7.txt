@@ -1,1 +1,2 @@
-Text: 61C 01440', Probability: 0.14646536943802738
+Text: L0, Probability: 0.8652207991816214
+Text: 61C04, Probability: 0.45659614042401636

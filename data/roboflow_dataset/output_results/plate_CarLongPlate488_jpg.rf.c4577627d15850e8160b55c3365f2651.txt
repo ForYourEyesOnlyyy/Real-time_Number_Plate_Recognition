@@ -1,1 +1,2 @@
-Text: GIF 59011, Probability: 0.1523941505762931
+Text: G1F:, Probability: 0.35222768783569336
+Text: 5901, Probability: 0.34553417563438416

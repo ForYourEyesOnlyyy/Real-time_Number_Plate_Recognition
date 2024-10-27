@@ -1,2 +1,2 @@
-Text: "79 U2, Probability: 0.23900715990298144
-Text: 4621, Probability: 0.681410014629364
+Text: 79 U2, Probability: 0.5210056952724722
+Text: 4621, Probability: 0.6913062334060669

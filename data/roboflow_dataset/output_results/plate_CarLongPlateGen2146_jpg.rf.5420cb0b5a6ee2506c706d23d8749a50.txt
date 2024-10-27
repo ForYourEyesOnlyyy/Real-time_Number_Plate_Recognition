@@ -1,2 +1,1 @@
-Text: 59, Probability: 0.442507046076321
-Text: EIEI6E, Probability: 0.12227241223093137
+Text: GIe:16169, Probability: 0.06671747607223444

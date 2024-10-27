@@ -1,1 +1,2 @@
-Text: 6T0.65474, Probability: 0.11243252966409627
+Text: G, Probability: 0.37200847153915007
+Text: 65470, Probability: 0.43938306102324365

@@ -1,2 +1,2 @@
-Text: 59 C1, Probability: 0.35793262413617044
-Text: 6ivs7, Probability: 0.022277182375498018
+Text: 59 €1, Probability: 0.3474512874922666
+Text: Liv571, Probability: 0.05955926974687184

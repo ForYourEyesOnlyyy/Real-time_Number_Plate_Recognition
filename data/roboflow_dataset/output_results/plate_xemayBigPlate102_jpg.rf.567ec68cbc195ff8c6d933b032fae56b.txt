@@ -1,2 +1,2 @@
-Text: 83 53, Probability: 0.10806663224076944
-Text: 6507, Probability: 0.9940699934959412
+Text: 83*$3, Probability: 0.26561336425075793
+Text: 6507, Probability: 0.9998760223388672

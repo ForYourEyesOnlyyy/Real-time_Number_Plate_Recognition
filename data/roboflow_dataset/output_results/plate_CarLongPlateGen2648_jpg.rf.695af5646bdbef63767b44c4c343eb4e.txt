@@ -1,2 +1,2 @@
-Text: 5FF:, Probability: 0.18586605787277222
-Text: "08270, Probability: 0.22204641031101857
+Text: GIFE, Probability: 0.351007878780365
+Text: '08270, Probability: 0.27545866261650037

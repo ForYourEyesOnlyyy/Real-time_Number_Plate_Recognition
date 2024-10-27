@@ -1,2 +1,2 @@
-Text: 59H0 |, Probability: 0.0707542767664569
-Text: 87515, Probability: 0.7470996957030456
+Text: 59HM7, Probability: 0.11197450660008568
+Text: 07615, Probability: 0.48644194712071515

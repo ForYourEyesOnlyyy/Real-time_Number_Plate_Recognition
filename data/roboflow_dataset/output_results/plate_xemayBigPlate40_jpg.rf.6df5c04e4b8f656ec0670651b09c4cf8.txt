@@ -1,1 +1,2 @@
-Text: 2494, Probability: 0.7405489087104797
+Text: 6, Probability: 0.9992668780761882
+Text: 2L9L, Probability: 0.4725091755390167

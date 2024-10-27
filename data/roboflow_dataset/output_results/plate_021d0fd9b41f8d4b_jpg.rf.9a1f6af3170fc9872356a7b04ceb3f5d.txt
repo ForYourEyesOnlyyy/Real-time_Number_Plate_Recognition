@@ -1,5 +1,5 @@
-Text: WASHINGTON, Probability: 0.9995444433710329
-Text: 8, Probability: 0.592339850022683
-Text: 20131, Probability: 0.5434975210814331
-Text: Aat5827, Probability: 0.2567490026213187
-Text: fvfpcrFFN STATE, Probability: 0.2742666887293014
+Text: WASHINGTON, Probability: 0.9995824895866393
+Text: 8, Probability: 1.0
+Text: 4073, Probability: 0.2409779280424118
+Text: aat58z7, Probability: 0.36202776310446944
+Text: FvfpcrfeheSTATE, Probability: 0.04158286871057054

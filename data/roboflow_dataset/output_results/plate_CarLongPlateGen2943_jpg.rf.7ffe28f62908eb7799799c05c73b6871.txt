@@ -1,1 +1,2 @@
-Text: 652Y.6490], Probability: 0.34518009476120515
+Text: 62Y =, Probability: 0.20192295527106033
+Text: '6490], Probability: 0.269365007414499

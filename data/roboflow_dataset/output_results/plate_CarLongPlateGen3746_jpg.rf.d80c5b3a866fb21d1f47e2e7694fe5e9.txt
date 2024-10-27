@@ -1,1 +1,2 @@
-Text: 20E Qo0g0, Probability: 0.0522956026738884
+Text: D0E, Probability: 0.42653989691054056
+Text: 'Q0090, Probability: 0.580591347157606

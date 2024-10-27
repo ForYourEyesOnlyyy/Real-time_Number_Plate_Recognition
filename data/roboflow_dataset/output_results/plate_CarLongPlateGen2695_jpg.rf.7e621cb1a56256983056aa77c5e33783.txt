@@ -1,2 +1,1 @@
-Text: E1F, Probability: 0.11368098125106899
-Text: 59011, Probability: 0.5378280420396891
+Text: FIF 5904, Probability: 0.190075192564487

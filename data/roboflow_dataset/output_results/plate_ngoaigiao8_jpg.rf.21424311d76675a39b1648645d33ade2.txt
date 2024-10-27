@@ -1,0 +1,2 @@
+Text: Ita, Probability: 0.21292696131610048
+Text: H6-O1, Probability: 0.06842008518265151
