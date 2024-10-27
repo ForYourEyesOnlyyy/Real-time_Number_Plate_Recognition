@@ -1,4 +1,0 @@
-Text: 361 |, Probability: 0.30759276025501087
-Text: KM, Probability: 0.5045918691282593
-Text: 7, Probability: 0.27150053158402443
-Text: d, Probability: 0.36918163932888604

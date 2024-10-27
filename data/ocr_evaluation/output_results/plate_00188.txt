@@ -1,4 +1,0 @@
-Text: 7, Probability: 0.04518577544066482
-Text: 8L14, Probability: 0.28552740812301636
-Text: 6, Probability: 0.38281558543539423
-Text: Y, Probability: 0.9131784673034105

@@ -1,2 +1,0 @@
-Text: 525 F, Probability: 0.30554670108798476
-Text: W, Probability: 0.9156748359528457

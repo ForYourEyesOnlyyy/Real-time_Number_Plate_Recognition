@@ -1,2 +1,0 @@
-Text: M710, Probability: 0.9788863658905029
-Text: P, Probability: 0.9817326400209367

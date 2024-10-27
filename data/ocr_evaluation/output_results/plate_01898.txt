@@ -1,2 +1,0 @@
-Text: 9, Probability: 0.9544385031893263
-Text: 1C, Probability: 0.03599481603023547

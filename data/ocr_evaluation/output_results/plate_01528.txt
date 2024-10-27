@@ -1,2 +1,0 @@
-Text: ZXV, Probability: 0.21352180760942074
-Text: 6770, Probability: 0.169806107878685

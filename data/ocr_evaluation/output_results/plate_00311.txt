@@ -1,2 +1,0 @@
-Text: 767, Probability: 0.9994507431983948
-Text: Bl, Probability: 0.18871965646558775

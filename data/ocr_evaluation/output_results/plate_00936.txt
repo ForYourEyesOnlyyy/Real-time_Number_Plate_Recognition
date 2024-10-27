@@ -1,2 +1,0 @@
-Text: 46918, Probability: 0.2981014103425051
-Text: MM, Probability: 0.9763244215988117

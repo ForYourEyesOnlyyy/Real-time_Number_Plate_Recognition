@@ -1,2 +1,0 @@
-Text: 674, Probability: 0.7108636695754331
-Text: SZi, Probability: 0.2776986178666089

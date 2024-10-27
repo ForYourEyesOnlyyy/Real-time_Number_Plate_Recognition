@@ -1,2 +1,0 @@
-Text: FB, Probability: 0.7653027195578109
-Text: [191240, Probability: 0.31889652188335055

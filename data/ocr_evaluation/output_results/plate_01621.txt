@@ -1,2 +1,0 @@
-Text: RR, Probability: 0.9999912334667646
-Text: 3039, Probability: 0.9760323867656434

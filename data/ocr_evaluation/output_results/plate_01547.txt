@@ -1,2 +1,0 @@
-Text: XM, Probability: 0.9763697895891434
-Text: 06941, Probability: 0.10653378174035782

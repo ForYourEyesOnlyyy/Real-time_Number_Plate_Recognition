@@ -1,2 +1,0 @@
-Text: TP, Probability: 0.9988071997734235
-Text: 678, Probability: 0.9999881620207366

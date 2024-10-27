@@ -1,2 +1,0 @@
-Text: 505, Probability: 0.9999855466557571
-Text: m, Probability: 0.08834457762290882

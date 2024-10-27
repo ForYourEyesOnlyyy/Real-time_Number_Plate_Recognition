@@ -1,2 +1,0 @@
-Text: W, Probability: 0.023675697615832547
-Text: 376, Probability: 0.6300539996654859

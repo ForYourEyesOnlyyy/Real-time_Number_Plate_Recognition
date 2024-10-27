@@ -1,2 +1,0 @@
-Text: 51, Probability: 0.9978340867549529
-Text: 9 LLD, Probability: 0.8743040658091947

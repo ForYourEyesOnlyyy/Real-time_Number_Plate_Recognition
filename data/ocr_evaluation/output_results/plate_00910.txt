@@ -1,2 +1,0 @@
-Text: 96 1, Probability: 0.9725845456123352
-Text: FY, Probability: 0.8853060509405344

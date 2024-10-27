@@ -1,2 +1,0 @@
-Text: 988L, Probability: 0.6822277307510376
-Text: HG, Probability: 0.7501240427842255

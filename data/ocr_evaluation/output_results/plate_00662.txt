@@ -1,2 +1,0 @@
-Text: HT, Probability: 0.21755373349683388
-Text: k 59012, Probability: 0.10536092010203695

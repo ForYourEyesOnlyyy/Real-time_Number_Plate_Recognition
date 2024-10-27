@@ -1,2 +1,0 @@
-Text: 73, Probability: 0.19332286137067464
-Text: FPZ, Probability: 0.035333966001230226

@@ -1,3 +1,0 @@
-Text: U, Probability: 0.023252356313735456
-Text: PT, Probability: 0.9958396950460766
-Text: 524, Probability: 0.45044943552890243

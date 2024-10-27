@@ -1,2 +1,0 @@
-Text: OO, Probability: 0.04338066004158829
-Text: M, Probability: 0.29791719265057637

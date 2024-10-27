@@ -1,2 +1,0 @@
-Text: 8355, Probability: 0.4977282236173777
-Text: JY, Probability: 0.974428642271244

@@ -1,5 +1,0 @@
-Text: 6, Probability: 0.22106623829132843
-Text: 379, Probability: 0.9999909838629265
-Text: L, Probability: 0.9996368022788751
-Text: Ou Sar, Probability: 0.04533280226059935
-Text: M, Probability: 0.9896995614987105

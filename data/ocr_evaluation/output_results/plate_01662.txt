@@ -1,2 +1,0 @@
-Text: GX, Probability: 0.5041772870580078
-Text: 379, Probability: 0.8743121645411123

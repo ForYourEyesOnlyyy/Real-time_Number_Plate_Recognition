@@ -1,2 +1,0 @@
-Text: UJT, Probability: 0.5250267738575399
-Text: 1503L, Probability: 0.5072239395872252

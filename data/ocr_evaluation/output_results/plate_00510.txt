@@ -1,2 +1,0 @@
-Text: 420, Probability: 0.987996271354163
-Text: JY, Probability: 0.7246090964242471

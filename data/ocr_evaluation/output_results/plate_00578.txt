@@ -1,2 +1,0 @@
-Text: 656, Probability: 0.9999365431445392
-Text: BX:, Probability: 0.9960463345625552

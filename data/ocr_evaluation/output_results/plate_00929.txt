@@ -1,2 +1,0 @@
-Text: 3281, Probability: 0.4266938269138336
-Text: HP, Probability: 0.999161296472191

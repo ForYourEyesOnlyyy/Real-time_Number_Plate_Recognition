@@ -1,3 +1,0 @@
-Text: 9, Probability: 0.9996865041422467
-Text: 16, Probability: 0.9989484295564122
-Text: HH, Probability: 0.4025768068544784

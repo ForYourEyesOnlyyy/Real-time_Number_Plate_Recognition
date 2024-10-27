@@ -1,3 +1,0 @@
-Text: Li, Probability: 0.2564563763904223
-Text: 9, Probability: 0.9999450452725434
-Text: JV, Probability: 0.770578444204021

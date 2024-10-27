@@ -1,2 +1,0 @@
-Text: HX, Probability: 0.99584668289228
-Text: 905, Probability: 0.9999980728858172

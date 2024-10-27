@@ -1,2 +1,0 @@
-Text: 39066, Probability: 0.19220424862194155
-Text: GEJi, Probability: 0.1883016675710678

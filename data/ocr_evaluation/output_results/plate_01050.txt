@@ -1,2 +1,0 @@
-Text: 137, Probability: 0.9976234894965393
-Text: HT, Probability: 0.577884452966706

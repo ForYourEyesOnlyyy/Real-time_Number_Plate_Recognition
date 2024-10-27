@@ -1,2 +1,0 @@
-Text: 37 4, Probability: 0.2622350740851571
-Text: FX, Probability: 0.9965262563847282

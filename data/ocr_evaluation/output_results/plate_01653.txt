@@ -1,2 +1,0 @@
-Text: Itd, Probability: 0.36565749590910773
-Text: 3703, Probability: 0.800173819065094

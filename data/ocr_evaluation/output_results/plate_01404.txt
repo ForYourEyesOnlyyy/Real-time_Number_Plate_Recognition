@@ -1,2 +1,0 @@
-Text: GC, Probability: 0.9958849058232272
-Text: 5978, Probability: 0.5040209462773261

@@ -1,2 +1,0 @@
-Text: 046, Probability: 0.9999311748019089
-Text: TS, Probability: 0.9557264312898253

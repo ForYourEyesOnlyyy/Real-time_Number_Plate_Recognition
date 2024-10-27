@@ -1,2 +1,0 @@
-Text: 6, Probability: 0.807700792103109
-Text: 571, Probability: 0.14741993589118618

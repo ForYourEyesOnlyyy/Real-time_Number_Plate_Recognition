@@ -1,2 +1,0 @@
-Text: 198, Probability: 0.5166882276535034
-Text: HY, Probability: 0.8982535852317232

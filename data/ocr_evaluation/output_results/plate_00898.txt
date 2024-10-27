@@ -1,4 +1,0 @@
-Text: E, Probability: 0.32206395687899203
-Text: 5, Probability: 0.9999997615814351
-Text: 1, Probability: 0.999547651912426
-Text: Sz, Probability: 0.41788485503133305

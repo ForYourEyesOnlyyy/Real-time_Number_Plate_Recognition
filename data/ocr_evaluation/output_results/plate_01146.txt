@@ -1,4 +1,0 @@
-Text: 5, Probability: 0.9999988079074598
-Text: 10, Probability: 0.7340703010559082
-Text: J, Probability: 0.8454415447978967
-Text: K, Probability: 0.9658413753807658

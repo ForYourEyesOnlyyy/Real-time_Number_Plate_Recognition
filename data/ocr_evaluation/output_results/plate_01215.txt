@@ -1,3 +1,0 @@
-Text: 5i, Probability: 0.01655604118109581
-Text: 81128, Probability: 0.656196120058231
-Text: GZ, Probability: 0.3488810340919468

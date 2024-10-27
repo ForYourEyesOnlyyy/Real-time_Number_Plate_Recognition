@@ -1,3 +1,0 @@
-Text: 1805, Probability: 0.14465010901678835
-Text: 0, Probability: 0.9999909401145146
-Text: XY, Probability: 0.8393193937417146

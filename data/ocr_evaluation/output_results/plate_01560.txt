@@ -1,3 +1,0 @@
-Text: TOu, Probability: 0.1458876207014369
-Text: VG, Probability: 0.14011867735550998
-Text: 7, Probability: 0.9582210845596961

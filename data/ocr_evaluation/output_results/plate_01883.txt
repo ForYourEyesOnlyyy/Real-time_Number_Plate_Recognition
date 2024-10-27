@@ -1,4 +1,0 @@
-Text: 38/6, Probability: 0.2327250987291336
-Text: KS, Probability: 0.977435361495022
-Text: 3, Probability: 0.23501215276608978
-Text: Oudb, Probability: 0.04491797089576721

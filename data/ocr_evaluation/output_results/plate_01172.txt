@@ -1,2 +1,0 @@
-Text: 9 KYL, Probability: 0.8162351138352992
-Text: LL, Probability: 0.7579880913250302

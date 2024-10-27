@@ -1,3 +1,0 @@
-Text: F, Probability: 0.2814876697628712
-Text: M, Probability: 0.9210971740120364
-Text: Om, Probability: 0.39638527979111476

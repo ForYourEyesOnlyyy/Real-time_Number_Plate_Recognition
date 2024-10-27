@@ -1,2 +1,0 @@
-Text: LR, Probability: 0.9999803596250854
-Text: 229, Probability: 0.7196629643440247

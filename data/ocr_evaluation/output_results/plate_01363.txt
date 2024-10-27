@@ -1,2 +1,0 @@
-Text: 5 105, Probability: 0.6964263762803545
-Text: Mw, Probability: 0.5495882591925074

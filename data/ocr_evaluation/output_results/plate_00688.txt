@@ -1,2 +1,0 @@
-Text: VN, Probability: 0.9125610610469034
-Text: 4179, Probability: 0.599895179271698

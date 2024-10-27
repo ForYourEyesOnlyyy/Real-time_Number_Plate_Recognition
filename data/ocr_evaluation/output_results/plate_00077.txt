@@ -1,2 +1,0 @@
-Text: 630, Probability: 0.9999526481955977
-Text: CXE, Probability: 0.3035154843793185

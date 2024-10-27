@@ -1,2 +1,0 @@
-Text: 42033, Probability: 0.7676657917591123
-Text: HX, Probability: 0.9621988181495938

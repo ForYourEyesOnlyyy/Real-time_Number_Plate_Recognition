@@ -1,4 +1,0 @@
-Text: 3, Probability: 0.9974942426875408
-Text: 48710, Probability: 0.274624939591579
-Text: L, Probability: 0.9962584273637276
-Text: U, Probability: 0.3244032007593525

@@ -1,3 +1,0 @@
-Text: , Probability: 0.0
-Text: 944, Probability: 0.992729244603999
-Text: XR, Probability: 0.9998762590952545

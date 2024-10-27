@@ -1,2 +1,0 @@
-Text: 04,, Probability: 0.19777598574533156
-Text: L FFE, Probability: 0.3417456755434212

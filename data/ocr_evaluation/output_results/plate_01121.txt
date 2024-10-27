@@ -1,4 +1,0 @@
-Text: U, Probability: 0.008550048736211124
-Text: 0, Probability: 0.2570729639402636
-Text: E, Probability: 0.3407537746252274
-Text: MMW Malud, Probability: 0.12191153334781599

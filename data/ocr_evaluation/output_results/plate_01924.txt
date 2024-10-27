@@ -1,2 +1,0 @@
-Text: 5079, Probability: 0.7545616626739502
-Text: RB, Probability: 0.9999385504478752

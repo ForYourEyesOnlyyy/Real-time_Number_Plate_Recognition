@@ -1,2 +1,0 @@
-Text: SJ, Probability: 0.994216546763621
-Text: 287, Probability: 0.999958016553673

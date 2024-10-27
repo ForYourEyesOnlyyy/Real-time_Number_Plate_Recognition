@@ -1,2 +1,0 @@
-Text: 20071, Probability: 0.49131223087431825
-Text: HY, Probability: 0.9555565758816095

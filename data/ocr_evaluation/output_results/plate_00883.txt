@@ -1,2 +1,0 @@
-Text: 77, Probability: 0.9999924135756967
-Text: 5 KV, Probability: 0.5406286756262064

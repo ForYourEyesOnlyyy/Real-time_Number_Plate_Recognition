@@ -1,3 +1,0 @@
-Text: 8, Probability: 0.99952941709995
-Text: RX, Probability: 0.9999420907212647
-Text: 75, Probability: 0.9999380572931587

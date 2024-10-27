@@ -1,2 +1,0 @@
-Text: E, Probability: 0.8314623341224348
-Text: 367 Ky, Probability: 0.7239589194829482

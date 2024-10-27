@@ -1,2 +1,0 @@
-Text: JV, Probability: 0.9711058755098833
-Text: 1815, Probability: 0.9991136789321899

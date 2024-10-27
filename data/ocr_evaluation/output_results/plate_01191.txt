@@ -1,3 +1,0 @@
-Text: 16, Probability: 0.997108940229344
-Text: 5, Probability: 0.9999997615814351
-Text: JB, Probability: 0.9991730104370903

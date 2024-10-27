@@ -1,2 +1,0 @@
-Text: Cn, Probability: 0.4373135470323205
-Text: 19u, Probability: 0.15564620496236448

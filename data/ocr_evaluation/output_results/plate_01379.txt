@@ -1,2 +1,0 @@
-Text: 150 -, Probability: 0.3740645766851047
-Text: TGH, Probability: 0.39681910242484236

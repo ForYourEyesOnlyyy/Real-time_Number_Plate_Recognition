@@ -1,2 +1,0 @@
-Text: 0659, Probability: 0.94846987779096
-Text: mY, Probability: 0.20009392366696732

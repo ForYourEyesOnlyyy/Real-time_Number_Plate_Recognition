@@ -1,2 +1,0 @@
-Text: 0064_, Probability: 0.5319018312270525
-Text: 65, Probability: 0.16642999372173253

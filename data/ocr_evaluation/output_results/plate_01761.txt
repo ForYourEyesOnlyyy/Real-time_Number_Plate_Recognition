@@ -1,2 +1,0 @@
-Text: 0220, Probability: 0.837077260017395
-Text: DP, Probability: 0.9986904958043324

@@ -1,2 +1,0 @@
-Text: AM, Probability: 0.36872502501930976
-Text: 7216, Probability: 0.3864206020548837

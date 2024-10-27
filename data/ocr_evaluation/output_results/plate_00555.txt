@@ -1,3 +1,0 @@
-Text: Il, Probability: 0.0445910498583725
-Text: JX, Probability: 0.999388841117339
-Text: 199, Probability: 0.6376506228490091

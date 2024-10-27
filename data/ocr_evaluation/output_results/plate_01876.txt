@@ -1,2 +1,0 @@
-Text: 75, Probability: 0.9999883674896276
-Text: 9 LN, Probability: 0.9040366249081749

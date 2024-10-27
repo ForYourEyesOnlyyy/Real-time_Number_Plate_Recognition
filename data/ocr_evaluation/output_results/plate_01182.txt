@@ -1,2 +1,0 @@
-Text: 102, Probability: 0.977414615704396
-Text: SC, Probability: 0.6224721720802917

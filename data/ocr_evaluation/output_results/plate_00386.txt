@@ -1,5 +1,0 @@
-Text: E, Probability: 0.9222562798190417
-Text: 46, Probability: 0.8297084381436749
-Text: 5, Probability: 0.9999997615814351
-Text: V, Probability: 0.9338343175443242
-Text: K, Probability: 0.9244664114548051

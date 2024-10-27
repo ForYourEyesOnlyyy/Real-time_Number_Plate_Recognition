@@ -1,5 +1,0 @@
-Text: 6, Probability: 0.9914868739587824
-Text: E, Probability: 0.7848986878075834
-Text: H, Probability: 0.9706409784726588
-Text: J, Probability: 0.7915559002485715
-Text: 0, Probability: 0.9999225154628135

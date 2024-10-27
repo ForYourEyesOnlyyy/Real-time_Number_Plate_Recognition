@@ -1,3 +1,0 @@
-Text: [77, Probability: 0.6537258007523353
-Text: 9, Probability: 0.23989312746103852
-Text: UJ, Probability: 0.46434535892034623

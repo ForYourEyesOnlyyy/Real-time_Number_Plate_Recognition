@@ -1,2 +1,0 @@
-Text: 0GG, Probability: 0.2181907320083837
-Text: 28, Probability: 0.9999822983695145

@@ -1,4 +1,0 @@
-Text: E, Probability: 0.2408168274950464
-Text: 4, Probability: 0.9848273375478698
-Text: 09, Probability: 0.9999920764016744
-Text: DR, Probability: 0.9996780132624035

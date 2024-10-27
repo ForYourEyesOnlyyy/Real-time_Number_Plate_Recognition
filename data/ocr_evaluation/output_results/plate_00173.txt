@@ -1,2 +1,0 @@
-Text: 1203, Probability: 0.28682491183280945
-Text: F, Probability: 0.9973987589801006

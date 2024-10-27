@@ -1,3 +1,0 @@
-Text: 72, Probability: 0.9999831413022183
-Text: WY, Probability: 0.09529157847183581
-Text: LU, Probability: 0.2806717279303527

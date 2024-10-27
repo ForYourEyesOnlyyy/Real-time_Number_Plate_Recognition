@@ -1,2 +1,0 @@
-Text: L94, Probability: 0.6336712599921457
-Text: MP, Probability: 0.8091980166523284

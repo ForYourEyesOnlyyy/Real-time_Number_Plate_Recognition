@@ -1,2 +1,0 @@
-Text: MZTT, Probability: 0.20196984708309174
-Text: Y, Probability: 0.24538804197641184

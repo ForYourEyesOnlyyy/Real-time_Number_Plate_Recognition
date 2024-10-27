@@ -1,2 +1,0 @@
-Text: HJ, Probability: 0.9776157253015273
-Text: 77058, Probability: 0.31485009335189423

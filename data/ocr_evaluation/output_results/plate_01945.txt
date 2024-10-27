@@ -1,2 +1,0 @@
-Text: 715, Probability: 0.9923606407378973
-Text: DCF, Probability: 0.5945443468920787

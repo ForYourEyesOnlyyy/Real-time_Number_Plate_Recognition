@@ -1,3 +1,0 @@
-Text: GOP, Probability: 0.32958198998850224
-Text: 6, Probability: 0.06007426882675393
-Text: 454, Probability: 0.8727471867053188

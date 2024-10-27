@@ -1,2 +1,0 @@
-Text: 135, Probability: 0.9999910526883591
-Text: ZP, Probability: 0.9995137442956511

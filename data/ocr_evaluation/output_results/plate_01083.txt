@@ -1,3 +1,0 @@
-Text: 2, Probability: 0.2787901024351278
-Text: 588, Probability: 0.9999986234898187
-Text: PD, Probability: 0.9954932674254954
