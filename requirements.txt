@@ -51,3 +51,4 @@ ipykernel
 
 torchaudio
 easyocr
+ultralytics
