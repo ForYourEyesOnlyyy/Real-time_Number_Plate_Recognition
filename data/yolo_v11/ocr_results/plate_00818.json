@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-[{"Text": "42 3", "Probability": 100}]
-=======
-[{"Text": "03", "Probability": 0.9822843486087879}, {"Text": "M", "Probability": 0.9949338391127185}]
->>>>>>> 987b11990d4354c1b2a24e369ad9f4dc9723a069
+[{"Text": "03m", "Probability": 100}]
