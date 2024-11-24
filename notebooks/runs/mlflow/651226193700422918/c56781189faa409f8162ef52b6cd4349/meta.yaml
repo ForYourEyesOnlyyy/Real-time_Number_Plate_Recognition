@@ -1,0 +1,15 @@
+artifact_uri: /home/elisey/cv/Real-time_Number_Plate_Recognition/notebooks/runs/mlflow/651226193700422918/c56781189faa409f8162ef52b6cd4349/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '651226193700422918'
+lifecycle_stage: active
+run_id: c56781189faa409f8162ef52b6cd4349
+run_name: experiment_35_epochs
+run_uuid: c56781189faa409f8162ef52b6cd4349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732399734192
+status: 1
+tags: []
+user_id: root
