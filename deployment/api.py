@@ -131,6 +131,9 @@ async def detect_plate(
             return JSONResponse({"error": "No license plate detected."}, status_code=400)
 
         cropped_plate = img[y1:y2, x1:x2]
+        detection_output_dir = os.path.join(temp_dir, 'yolov11_results')
+        Path(detection_output_dir).mkdir(parents=True, exist_ok=True)
+        results[0].save(filename=f'{detection_output_dir}/input.jpg')
 
     # Save cropped plate
     cropped_path = os.path.join(output_dir, "cropped_plate.jpg")
@@ -141,7 +144,8 @@ async def detect_plate(
     recognized_text = "".join([line[-1][0] for line in result[0]])
 
     # Save result image with bounding box
-    cv2.rectangle(img, (x1, y1), (x2, y2), (0, 255, 0), 2)
+    # cv2.rectangle(img, (x1, y1), (x2, y2), (0, 255, 0), 2)
+    img = cv2.imread(f'{detection_output_dir}/input.jpg')
     result_img_path = os.path.join(output_dir, "result.jpg")
     cv2.imwrite(result_img_path, img)
 
