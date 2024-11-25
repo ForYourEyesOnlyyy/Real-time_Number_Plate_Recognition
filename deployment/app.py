@@ -5,6 +5,10 @@ from io import BytesIO
 
 st.title("License Plate Detection and Recognition")
 
+# List of YOLO models
+yolo_models = ["YOLO_v5", "YOLO_v11_10", "YOLO_v11_35"]
+selected_model = st.selectbox("Select YOLO Model", yolo_models)
+
 # Upload an image
 uploaded_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
 
@@ -14,7 +18,8 @@ if uploaded_file:
     if st.button("Process"):
         # Send to FastAPI
         files = {"file": uploaded_file.getvalue()}
-        response = requests.post("http://localhost:8000/detect/", files=files)
+        data = {"model_name": selected_model}
+        response = requests.post("http://localhost:8000/detect/", files=files, data=data)
 
         if response.status_code == 200:
             result = response.json()
